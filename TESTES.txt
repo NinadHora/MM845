@@ -1,0 +1,17 @@
+test_amostragem_norma (test_basicos.GeometriaTest.test_amostragem_norma) ... ok
+test_area_polar (test_basicos.GeometriaTest.test_area_polar) ... ok
+test_dimensao_polinomios_restritos (test_basicos.GeometriaTest.test_dimensao_polinomios_restritos) ... ok
+test_discriminante (test_basicos.GeometriaTest.test_discriminante) ... ok
+test_esfera_distancias (test_basicos.GeometriaTest.test_esfera_distancias) ... ok
+test_h0_mst (test_basicos.GeometriaTest.test_h0_mst) ... ok
+test_harmonicos (test_basicos.GeometriaTest.test_harmonicos) ... ok
+test_semente (test_basicos.GeometriaTest.test_semente) ... ok
+test_cnn_circular_sem_subamostragem (test_basicos.SimetriasTest.test_cnn_circular_sem_subamostragem) ... ok
+test_mascaras_ignoram_padding (test_basicos.SimetriasTest.test_mascaras_ignoram_padding) ... ok
+test_modelos_de_conjuntos (test_basicos.SimetriasTest.test_modelos_de_conjuntos) ... ok
+test_reversao_area (test_basicos.SimetriasTest.test_reversao_area) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.078s
+
+OK

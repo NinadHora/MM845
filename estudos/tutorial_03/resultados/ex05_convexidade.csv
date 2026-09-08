@@ -1,0 +1,6 @@
+features,posto,C,acuracia_validacao,acuracia_teste
+p_k,8,0.1,0.82125,0.79625
+p_k e duplicações,8,0.1,0.81875,0.7975
+soma p,1,0.1,0.77875,0.77125
+soma k²p,1,0.1,0.79625,0.785
+soma k⁴p,1,0.1,0.79375,0.78375

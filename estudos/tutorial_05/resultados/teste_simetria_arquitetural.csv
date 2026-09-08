@@ -1,0 +1,13 @@
+padding,subamostragem,deslocamento,erro_max
+circular,False,1,9.313226e-10
+circular,False,2,9.313226e-10
+circular,False,8,9.313226e-10
+circular,True,1,6.607734e-05
+circular,True,2,1.8626451e-09
+circular,True,8,9.313226e-10
+zeros,False,1,0.00015258044
+zeros,False,2,0.00019562244
+zeros,False,8,0.00021466427
+zeros,True,1,0.0001027165
+zeros,True,2,0.0001160549
+zeros,True,8,0.0002669068

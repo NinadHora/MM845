@@ -1,0 +1,7 @@
+{
+  "status": "NAO_EXECUTADO",
+  "etapa": "Tutorial 08, exercício 3: experimentos UMAP",
+  "motivo": "umap-learn não disponível no ambiente; instalação externa não concluída.",
+  "acao": "Instale requirements.txt e execute novamente: python executar.py 8",
+  "detalhe": "No module named 'umap'"
+}

@@ -1,0 +1,81 @@
+{
+  "data": "2026-09-08",
+  "arquivo_original": "MM845-main(2).zip",
+  "sha256_original": "d0d0327c5cad7f6b0ee5973fea4825d5c93cb618edb6cd934e04f7d3514eb34a",
+  "tutoriais_presentes": 8,
+  "exercicios_numerados": 32,
+  "celulas_codigo_executadas": 46,
+  "erros_de_celula": 0,
+  "testes_independentes": {
+    "total": 12,
+    "aprovados": 12
+  },
+  "ressalva": "O bloco UMAP foi detectado como não executável por ausência da dependência; nenhum resultado UMAP foi fabricado.",
+  "tutoriais": {
+    "tutorial_01": {
+      "status": "executado_sem_erros",
+      "segundos": 7.47,
+      "celulas_codigo": 3,
+      "celulas_executadas": 3,
+      "cobertura_experimental": "completa para o caderno de soluções"
+    },
+    "tutorial_02": {
+      "status": "executado_sem_erros",
+      "segundos": 67.53,
+      "celulas_codigo": 13,
+      "celulas_executadas": 13,
+      "cobertura_experimental": "completa para o caderno de soluções"
+    },
+    "tutorial_03": {
+      "status": "executado_sem_erros",
+      "segundos": 26.51,
+      "celulas_codigo": 7,
+      "celulas_executadas": 7,
+      "cobertura_experimental": "completa para o caderno de soluções"
+    },
+    "tutorial_04": {
+      "status": "executado_sem_erros",
+      "segundos": 124.05,
+      "celulas_codigo": 4,
+      "celulas_executadas": 4,
+      "cobertura_experimental": "completa para o caderno de soluções"
+    },
+    "tutorial_05": {
+      "status": "executado_sem_erros",
+      "segundos": 127.79,
+      "celulas_codigo": 4,
+      "celulas_executadas": 4,
+      "cobertura_experimental": "completa para o caderno de soluções"
+    },
+    "tutorial_06": {
+      "status": "executado_sem_erros",
+      "segundos": 110.28,
+      "celulas_codigo": 5,
+      "celulas_executadas": 5,
+      "cobertura_experimental": "completa para o caderno de soluções"
+    },
+    "tutorial_07": {
+      "status": "executado_sem_erros",
+      "segundos": 30.41,
+      "celulas_codigo": 5,
+      "celulas_executadas": 5,
+      "cobertura_experimental": "completa para o caderno de soluções"
+    },
+    "tutorial_08": {
+      "status": "executado_sem_erros",
+      "segundos": 84.19,
+      "celulas_codigo": 5,
+      "celulas_executadas": 5,
+      "cobertura_experimental": "parcial: UMAP não executado",
+      "pendencias": [
+        {
+          "status": "NAO_EXECUTADO",
+          "etapa": "Tutorial 08, exercício 3: experimentos UMAP",
+          "motivo": "umap-learn não disponível no ambiente; instalação externa não concluída.",
+          "acao": "Instale requirements.txt e execute novamente: python executar.py 8",
+          "detalhe": "No module named 'umap'"
+        }
+      ]
+    }
+  }
+}

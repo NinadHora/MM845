@@ -1,0 +1,10 @@
+pacote,versao
+numpy,2.3.5
+scipy,1.17.0
+matplotlib,3.10.8
+pandas,2.2.3
+scikit-learn,1.8.0
+torch,2.10.0+cpu
+nbformat,5.10.4
+nbclient,0.10.4
+umap-learn,não instalado

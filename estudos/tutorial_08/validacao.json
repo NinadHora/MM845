@@ -1,0 +1,16 @@
+{
+  "status": "executado_sem_erros",
+  "segundos": 84.19,
+  "celulas_codigo": 5,
+  "celulas_executadas": 5,
+  "cobertura_experimental": "parcial: UMAP não executado",
+  "pendencias": [
+    {
+      "status": "NAO_EXECUTADO",
+      "etapa": "Tutorial 08, exercício 3: experimentos UMAP",
+      "motivo": "umap-learn não disponível no ambiente; instalação externa não concluída.",
+      "acao": "Instale requirements.txt e execute novamente: python executar.py 8",
+      "detalhe": "No module named 'umap'"
+    }
+  ]
+}

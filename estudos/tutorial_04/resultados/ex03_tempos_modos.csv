@@ -1,0 +1,25 @@
+ativacao,entrada,modo,primeiro_cruzamento,residuo_final
+Tanh,coordenadas do círculo,1,40.0,0.0016312563908790366
+Tanh,coordenadas do círculo,3,120.0,0.00011590594080292474
+Tanh,coordenadas do círculo,9,400.0,0.00012980079606287728
+Tanh,coordenadas do círculo,17,900.0,0.002921477418779955
+Tanh,Fourier explícito,1,40.0,4.501434203654196e-06
+Tanh,Fourier explícito,3,20.0,1.5465460765598255e-06
+Tanh,Fourier explícito,9,60.0,6.4443050596633506e-06
+Tanh,Fourier explícito,17,60.0,9.611028546138909e-06
+ReLU,coordenadas do círculo,1,20.0,0.002168346279797538
+ReLU,coordenadas do círculo,3,120.0,0.008503928541279132
+ReLU,coordenadas do círculo,9,640.0,0.09896124292894429
+ReLU,coordenadas do círculo,17,,0.30987005529948514
+ReLU,Fourier explícito,1,40.0,1.5716131247513433e-06
+ReLU,Fourier explícito,3,40.0,8.175684178311823e-06
+ReLU,Fourier explícito,9,40.0,1.814884748525774e-06
+ReLU,Fourier explícito,17,60.0,1.594261245376261e-05
+SiLU,coordenadas do círculo,1,40.0,1.1808729098457314e-05
+SiLU,coordenadas do círculo,3,160.0,0.00021658455903073216
+SiLU,coordenadas do círculo,9,960.0,0.036189859788137255
+SiLU,coordenadas do círculo,17,,0.18547621981212528
+SiLU,Fourier explícito,1,40.0,6.068851027886078e-07
+SiLU,Fourier explícito,3,40.0,1.4517764792587084e-06
+SiLU,Fourier explícito,9,40.0,8.704433821592094e-07
+SiLU,Fourier explícito,17,40.0,2.7218671703224166e-06

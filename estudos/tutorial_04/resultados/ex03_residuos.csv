@@ -1,0 +1,2665 @@
+ativacao,entrada,epoca,modo,residuo
+Tanh,coordenadas do círculo,0,1,1.0030408616942386
+Tanh,coordenadas do círculo,0,3,1.0059431611914251
+Tanh,coordenadas do círculo,0,9,0.9999991262230031
+Tanh,coordenadas do círculo,0,17,0.9999999994632686
+Tanh,coordenadas do círculo,20,1,0.17068414901412543
+Tanh,coordenadas do círculo,20,3,0.9776524768058598
+Tanh,coordenadas do círculo,20,9,1.00000140175538
+Tanh,coordenadas do círculo,20,17,1.000000005833168
+Tanh,coordenadas do círculo,40,1,0.04815236303581952
+Tanh,coordenadas do círculo,40,3,0.9547424693165003
+Tanh,coordenadas do círculo,40,9,0.9999868546040618
+Tanh,coordenadas do círculo,40,17,1.0000000004437923
+Tanh,coordenadas do círculo,60,1,0.04441674106716405
+Tanh,coordenadas do círculo,60,3,0.891793887064324
+Tanh,coordenadas do círculo,60,9,0.9998022168180432
+Tanh,coordenadas do círculo,60,17,0.9999998600784454
+Tanh,coordenadas do círculo,80,1,0.07547483694670071
+Tanh,coordenadas do círculo,80,3,0.7335063031315381
+Tanh,coordenadas do círculo,80,9,0.9970830586104282
+Tanh,coordenadas do círculo,80,17,0.9999753177130172
+Tanh,coordenadas do círculo,100,1,0.05061722624367086
+Tanh,coordenadas do círculo,100,3,0.4363911950854979
+Tanh,coordenadas do círculo,100,9,0.9757254678463062
+Tanh,coordenadas do círculo,100,17,0.9996548290603738
+Tanh,coordenadas do círculo,120,1,0.0086743787761186
+Tanh,coordenadas do círculo,120,3,0.054069143515578864
+Tanh,coordenadas do círculo,120,9,0.9289341217789086
+Tanh,coordenadas do círculo,120,17,0.9997318559765721
+Tanh,coordenadas do círculo,140,1,0.012110630038839035
+Tanh,coordenadas do círculo,140,3,0.09560724240072448
+Tanh,coordenadas do círculo,140,9,0.8877303190461819
+Tanh,coordenadas do círculo,140,17,0.9994678144260777
+Tanh,coordenadas do círculo,160,1,0.010919766166323513
+Tanh,coordenadas do círculo,160,3,0.07473497129332923
+Tanh,coordenadas do círculo,160,9,0.8590414778665864
+Tanh,coordenadas do círculo,160,17,0.9982018251833901
+Tanh,coordenadas do círculo,180,1,0.012686333080397972
+Tanh,coordenadas do círculo,180,3,0.08786178076050838
+Tanh,coordenadas do círculo,180,9,0.8284067883346498
+Tanh,coordenadas do círculo,180,17,0.9946046511974466
+Tanh,coordenadas do círculo,200,1,0.013938697971952263
+Tanh,coordenadas do círculo,200,3,0.10282254364376646
+Tanh,coordenadas do círculo,200,9,0.7947018812979477
+Tanh,coordenadas do círculo,200,17,0.9872537398821282
+Tanh,coordenadas do círculo,220,1,0.010538278876114231
+Tanh,coordenadas do círculo,220,3,0.09726598729031785
+Tanh,coordenadas do círculo,220,9,0.7517141975401042
+Tanh,coordenadas do círculo,220,17,0.9752939760117615
+Tanh,coordenadas do círculo,240,1,0.010505478433887015
+Tanh,coordenadas do círculo,240,3,0.09396354809846194
+Tanh,coordenadas do círculo,240,9,0.6927946687349745
+Tanh,coordenadas do círculo,240,17,0.956720069219426
+Tanh,coordenadas do círculo,260,1,0.008352403288018392
+Tanh,coordenadas do círculo,260,3,0.07350641851388892
+Tanh,coordenadas do círculo,260,9,0.6236352253329553
+Tanh,coordenadas do círculo,260,17,0.9304141481348441
+Tanh,coordenadas do círculo,280,1,0.004873722890322938
+Tanh,coordenadas do círculo,280,3,0.05889829298445278
+Tanh,coordenadas do círculo,280,9,0.5505701603893856
+Tanh,coordenadas do círculo,280,17,0.897894525542853
+Tanh,coordenadas do círculo,300,1,0.0021721824781905587
+Tanh,coordenadas do círculo,300,3,0.049001467818004435
+Tanh,coordenadas do círculo,300,9,0.477917961127999
+Tanh,coordenadas do círculo,300,17,0.8599254287580895
+Tanh,coordenadas do círculo,320,1,0.0010390315006497258
+Tanh,coordenadas do círculo,320,3,0.04624713495911014
+Tanh,coordenadas do círculo,320,9,0.399498198141964
+Tanh,coordenadas do círculo,320,17,0.8153197243200463
+Tanh,coordenadas do círculo,340,1,5.930881172507783e-05
+Tanh,coordenadas do círculo,340,3,0.015202939952299536
+Tanh,coordenadas do círculo,340,9,0.31071740182639784
+Tanh,coordenadas do círculo,340,17,0.7628026780762133
+Tanh,coordenadas do círculo,360,1,0.00031708191024347156
+Tanh,coordenadas do círculo,360,3,0.0026543474927491237
+Tanh,coordenadas do círculo,360,9,0.22093406840473198
+Tanh,coordenadas do círculo,360,17,0.7063565080547749
+Tanh,coordenadas do círculo,380,1,0.0016580804810296436
+Tanh,coordenadas do círculo,380,3,0.00499819766564229
+Tanh,coordenadas do círculo,380,9,0.14833407479251493
+Tanh,coordenadas do círculo,380,17,0.6477850889021632
+Tanh,coordenadas do círculo,400,1,0.002443268174632339
+Tanh,coordenadas do círculo,400,3,0.010969446058067862
+Tanh,coordenadas do círculo,400,9,0.09020411294416575
+Tanh,coordenadas do círculo,400,17,0.5939196945067887
+Tanh,coordenadas do círculo,420,1,0.0033071901386895206
+Tanh,coordenadas do círculo,420,3,0.016324645978644407
+Tanh,coordenadas do círculo,420,9,0.043707121998526284
+Tanh,coordenadas do círculo,420,17,0.5474839982781537
+Tanh,coordenadas do círculo,440,1,0.003677529978375629
+Tanh,coordenadas do círculo,440,3,0.015542906076287631
+Tanh,coordenadas do círculo,440,9,0.010504194716063103
+Tanh,coordenadas do círculo,440,17,0.5089477274335314
+Tanh,coordenadas do círculo,460,1,0.003563100383593056
+Tanh,coordenadas do círculo,460,3,0.017798579084218037
+Tanh,coordenadas do círculo,460,9,0.013182154737870776
+Tanh,coordenadas do círculo,460,17,0.47586242045928123
+Tanh,coordenadas do círculo,480,1,0.002613787329343418
+Tanh,coordenadas do círculo,480,3,0.010236557369320581
+Tanh,coordenadas do círculo,480,9,0.027420947686362173
+Tanh,coordenadas do círculo,480,17,0.44680243552819987
+Tanh,coordenadas do círculo,500,1,0.0018016577558434093
+Tanh,coordenadas do círculo,500,3,0.00401489081373411
+Tanh,coordenadas do círculo,500,9,0.03490249579601217
+Tanh,coordenadas do círculo,500,17,0.4207991209182251
+Tanh,coordenadas do círculo,520,1,0.0015552697023608441
+Tanh,coordenadas do círculo,520,3,0.0022277900110524345
+Tanh,coordenadas do círculo,520,9,0.0420719935905823
+Tanh,coordenadas do círculo,520,17,0.39623121766050384
+Tanh,coordenadas do círculo,540,1,0.0011952466519028668
+Tanh,coordenadas do círculo,540,3,0.0005714381485649742
+Tanh,coordenadas do círculo,540,9,0.04857064397225507
+Tanh,coordenadas do círculo,540,17,0.3707715371649169
+Tanh,coordenadas do círculo,560,1,0.0006511988088399457
+Tanh,coordenadas do círculo,560,3,0.0007923781586183142
+Tanh,coordenadas do círculo,560,9,0.054769006162239765
+Tanh,coordenadas do círculo,560,17,0.34646955967773974
+Tanh,coordenadas do círculo,580,1,1.1055470790370882e-05
+Tanh,coordenadas do círculo,580,3,0.0006799218150261696
+Tanh,coordenadas do círculo,580,9,0.06028183927241717
+Tanh,coordenadas do círculo,580,17,0.32438948808778006
+Tanh,coordenadas do círculo,600,1,0.000660023238646859
+Tanh,coordenadas do círculo,600,3,4.192253380682242e-05
+Tanh,coordenadas do círculo,600,9,0.06531772749259504
+Tanh,coordenadas do círculo,600,17,0.30472518906396984
+Tanh,coordenadas do círculo,620,1,0.0013603612292822796
+Tanh,coordenadas do círculo,620,3,0.000727909366814835
+Tanh,coordenadas do círculo,620,9,0.07044601440052728
+Tanh,coordenadas do círculo,620,17,0.28679961451885094
+Tanh,coordenadas do círculo,640,1,0.0020365794257136676
+Tanh,coordenadas do círculo,640,3,0.00020757646478921033
+Tanh,coordenadas do círculo,640,9,0.07339357008757884
+Tanh,coordenadas do círculo,640,17,0.27146692336992057
+Tanh,coordenadas do círculo,660,1,0.0023473860207408395
+Tanh,coordenadas do círculo,660,3,0.00026878802824048076
+Tanh,coordenadas do círculo,660,9,0.0737271581018419
+Tanh,coordenadas do círculo,660,17,0.2591035792628427
+Tanh,coordenadas do círculo,680,1,0.0026686130384012603
+Tanh,coordenadas do círculo,680,3,0.0004375737423543909
+Tanh,coordenadas do círculo,680,9,0.07318100199555919
+Tanh,coordenadas do círculo,680,17,0.24928737592977332
+Tanh,coordenadas do círculo,700,1,0.003044160938696555
+Tanh,coordenadas do círculo,700,3,0.0007870889979204912
+Tanh,coordenadas do círculo,700,9,0.07208049914351769
+Tanh,coordenadas do círculo,700,17,0.24136223360664594
+Tanh,coordenadas do círculo,720,1,0.0033999326938314164
+Tanh,coordenadas do círculo,720,3,0.0003369071294224748
+Tanh,coordenadas do círculo,720,9,0.07070126726226247
+Tanh,coordenadas do círculo,720,17,0.23044840991377025
+Tanh,coordenadas do círculo,740,1,0.0037194375562820303
+Tanh,coordenadas do círculo,740,3,0.0005209557901613134
+Tanh,coordenadas do círculo,740,9,0.06842147872745424
+Tanh,coordenadas do círculo,740,17,0.21958776000731112
+Tanh,coordenadas do círculo,760,1,0.0038978770974121687
+Tanh,coordenadas do círculo,760,3,0.0016877954683508706
+Tanh,coordenadas do círculo,760,9,0.0651752064607523
+Tanh,coordenadas do círculo,760,17,0.20806176182240374
+Tanh,coordenadas do círculo,780,1,0.0035110889129899066
+Tanh,coordenadas do círculo,780,3,0.0007555924598505029
+Tanh,coordenadas do círculo,780,9,0.058013936196225274
+Tanh,coordenadas do círculo,780,17,0.19234392976537415
+Tanh,coordenadas do círculo,800,1,0.0023005292478846043
+Tanh,coordenadas do círculo,800,3,0.005910143938637839
+Tanh,coordenadas do círculo,800,9,0.04893241951482931
+Tanh,coordenadas do círculo,800,17,0.1668761589193555
+Tanh,coordenadas do círculo,820,1,0.002681443996872693
+Tanh,coordenadas do círculo,820,3,0.006113584635208529
+Tanh,coordenadas do círculo,820,9,0.04552986793842842
+Tanh,coordenadas do círculo,820,17,0.15333758852684953
+Tanh,coordenadas do círculo,840,1,0.002836091645808128
+Tanh,coordenadas do círculo,840,3,0.005701811467861183
+Tanh,coordenadas do círculo,840,9,0.040672841074511995
+Tanh,coordenadas do círculo,840,17,0.1380443770604253
+Tanh,coordenadas do círculo,860,1,0.00264201522407766
+Tanh,coordenadas do círculo,860,3,0.005067541798523311
+Tanh,coordenadas do círculo,860,9,0.036703732292212986
+Tanh,coordenadas do círculo,860,17,0.12350599005964678
+Tanh,coordenadas do círculo,880,1,0.0023186752412646095
+Tanh,coordenadas do círculo,880,3,0.004634987632185951
+Tanh,coordenadas do círculo,880,9,0.03268117690145347
+Tanh,coordenadas do círculo,880,17,0.11003398152753537
+Tanh,coordenadas do círculo,900,1,0.0019168419614714383
+Tanh,coordenadas do círculo,900,3,0.004126221147730302
+Tanh,coordenadas do círculo,900,9,0.02866531947289705
+Tanh,coordenadas do círculo,900,17,0.09704556252464785
+Tanh,coordenadas do círculo,920,1,0.0016397854842522246
+Tanh,coordenadas do círculo,920,3,0.0037829483952654275
+Tanh,coordenadas do círculo,920,9,0.02529354364969966
+Tanh,coordenadas do círculo,920,17,0.08585376141081205
+Tanh,coordenadas do círculo,940,1,0.0014588194809364752
+Tanh,coordenadas do círculo,940,3,0.003439535094490908
+Tanh,coordenadas do círculo,940,9,0.022419569825695197
+Tanh,coordenadas do círculo,940,17,0.07646937898079016
+Tanh,coordenadas do círculo,960,1,0.0012997946294272887
+Tanh,coordenadas do círculo,960,3,0.003083786157589618
+Tanh,coordenadas do círculo,960,9,0.019705425374433382
+Tanh,coordenadas do círculo,960,17,0.06835566165016241
+Tanh,coordenadas do círculo,980,1,0.001169321925395865
+Tanh,coordenadas do círculo,980,3,0.0027011125280431876
+Tanh,coordenadas do círculo,980,9,0.01708028590192473
+Tanh,coordenadas do círculo,980,17,0.06156763350748764
+Tanh,coordenadas do círculo,1000,1,0.001068013891212677
+Tanh,coordenadas do círculo,1000,3,0.0023206119341651864
+Tanh,coordenadas do círculo,1000,9,0.01455841165114551
+Tanh,coordenadas do círculo,1000,17,0.05606680929930817
+Tanh,coordenadas do círculo,1020,1,0.0009959567290106757
+Tanh,coordenadas do círculo,1020,3,0.0020223459888603847
+Tanh,coordenadas do círculo,1020,9,0.012298802687884124
+Tanh,coordenadas do círculo,1020,17,0.051350357983396176
+Tanh,coordenadas do círculo,1040,1,0.0009230923389896093
+Tanh,coordenadas do círculo,1040,3,0.001802875766112242
+Tanh,coordenadas do círculo,1040,9,0.01026552202855685
+Tanh,coordenadas do círculo,1040,17,0.047113800716498046
+Tanh,coordenadas do círculo,1060,1,0.0008261931234927913
+Tanh,coordenadas do círculo,1060,3,0.001673462284439627
+Tanh,coordenadas do círculo,1060,9,0.008459269298413744
+Tanh,coordenadas do círculo,1060,17,0.043357781733225305
+Tanh,coordenadas do círculo,1080,1,0.0006924406531535553
+Tanh,coordenadas do círculo,1080,3,0.00151734917417515
+Tanh,coordenadas do círculo,1080,9,0.006964538599350394
+Tanh,coordenadas do círculo,1080,17,0.03992642089941838
+Tanh,coordenadas do círculo,1100,1,0.0005549779850562012
+Tanh,coordenadas do círculo,1100,3,0.001289593981792079
+Tanh,coordenadas do círculo,1100,9,0.0057608288873850656
+Tanh,coordenadas do círculo,1100,17,0.03668929868864521
+Tanh,coordenadas do círculo,1120,1,0.0004463221460214176
+Tanh,coordenadas do círculo,1120,3,0.0010663219241193384
+Tanh,coordenadas do círculo,1120,9,0.004743822976859117
+Tanh,coordenadas do círculo,1120,17,0.033661551482689143
+Tanh,coordenadas do círculo,1140,1,0.0003691443894267856
+Tanh,coordenadas do círculo,1140,3,0.0008878160444069739
+Tanh,coordenadas do círculo,1140,9,0.0038413227132999372
+Tanh,coordenadas do círculo,1140,17,0.03090900091596235
+Tanh,coordenadas do círculo,1160,1,0.00031162150486187896
+Tanh,coordenadas do círculo,1160,3,0.000746605274505509
+Tanh,coordenadas do círculo,1160,9,0.0030440924074813264
+Tanh,coordenadas do círculo,1160,17,0.028442445461892493
+Tanh,coordenadas do círculo,1180,1,0.0002656511005661148
+Tanh,coordenadas do círculo,1180,3,0.0006331394265135717
+Tanh,coordenadas do círculo,1180,9,0.0023571557427981248
+Tanh,coordenadas do círculo,1180,17,0.026231579654610798
+Tanh,coordenadas do círculo,1200,1,0.00022739089156345498
+Tanh,coordenadas do círculo,1200,3,0.0005410382203389649
+Tanh,coordenadas do círculo,1200,9,0.001773417377919128
+Tanh,coordenadas do círculo,1200,17,0.024240439847987086
+Tanh,coordenadas do círculo,1220,1,0.0001958807901111078
+Tanh,coordenadas do círculo,1220,3,0.0004649638076763689
+Tanh,coordenadas do círculo,1220,9,0.0012793610135886657
+Tanh,coordenadas do círculo,1220,17,0.022440250353298632
+Tanh,coordenadas do círculo,1240,1,0.0001683294508284789
+Tanh,coordenadas do círculo,1240,3,0.0004015830073043803
+Tanh,coordenadas do círculo,1240,9,0.0008629846373120699
+Tanh,coordenadas do círculo,1240,17,0.020807696625610914
+Tanh,coordenadas do círculo,1260,1,0.00014514294363466464
+Tanh,coordenadas do círculo,1260,3,0.0003480084926225781
+Tanh,coordenadas do círculo,1260,9,0.0005136317987216129
+Tanh,coordenadas do círculo,1260,17,0.01932355895959213
+Tanh,coordenadas do círculo,1280,1,0.00012604086128590244
+Tanh,coordenadas do círculo,1280,3,0.0003030401894097008
+Tanh,coordenadas do círculo,1280,9,0.00022209243634261703
+Tanh,coordenadas do círculo,1280,17,0.017971832624407887
+Tanh,coordenadas do círculo,1300,1,0.00010853188161717939
+Tanh,coordenadas do círculo,1300,3,0.0002642908255868867
+Tanh,coordenadas do círculo,1300,9,1.8495422628475813e-05
+Tanh,coordenadas do círculo,1300,17,0.01673990901952854
+Tanh,coordenadas do círculo,1320,1,9.337785496889307e-05
+Tanh,coordenadas do círculo,1320,3,0.0002313751545215745
+Tanh,coordenadas do círculo,1320,9,0.00021559562412404624
+Tanh,coordenadas do círculo,1320,17,0.015616841428169917
+Tanh,coordenadas do círculo,1340,1,8.03683776388372e-05
+Tanh,coordenadas do círculo,1340,3,0.00020315874263029542
+Tanh,coordenadas do círculo,1340,9,0.0003746011772343763
+Tanh,coordenadas do círculo,1340,17,0.014593543237348084
+Tanh,coordenadas do círculo,1360,1,6.923990432381153e-05
+Tanh,coordenadas do círculo,1360,3,0.00017837019602187445
+Tanh,coordenadas do círculo,1360,9,0.0005011071447234612
+Tanh,coordenadas do círculo,1360,17,0.013661519797527584
+Tanh,coordenadas do círculo,1380,1,5.9603984402112415e-05
+Tanh,coordenadas do círculo,1380,3,0.00015796240477967204
+Tanh,coordenadas do círculo,1380,9,0.0006000874409976926
+Tanh,coordenadas do círculo,1380,17,0.012813273031102726
+Tanh,coordenadas do círculo,1400,1,5.089307966405831e-05
+Tanh,coordenadas do círculo,1400,3,0.00014019179720434885
+Tanh,coordenadas do círculo,1400,9,0.0006755348475994342
+Tanh,coordenadas do círculo,1400,17,0.01204156733509749
+Tanh,coordenadas do círculo,1420,1,4.287834225571045e-05
+Tanh,coordenadas do círculo,1420,3,0.00012493815017847727
+Tanh,coordenadas do círculo,1420,9,0.0007314044465325068
+Tanh,coordenadas do círculo,1420,17,0.011339895254608778
+Tanh,coordenadas do círculo,1440,1,3.588815704047353e-05
+Tanh,coordenadas do círculo,1440,3,0.00011172160330234232
+Tanh,coordenadas do círculo,1440,9,0.0007713536017700201
+Tanh,coordenadas do círculo,1440,17,0.010701774195617096
+Tanh,coordenadas do círculo,1460,1,3.064862539059485e-05
+Tanh,coordenadas do círculo,1460,3,0.00010049936041954827
+Tanh,coordenadas do círculo,1460,9,0.0007988093343304023
+Tanh,coordenadas do círculo,1460,17,0.010121378597346043
+Tanh,coordenadas do círculo,1480,1,2.492727018903826e-05
+Tanh,coordenadas do círculo,1480,3,9.005701316239557e-05
+Tanh,coordenadas do círculo,1480,9,0.0008154641198542692
+Tanh,coordenadas do círculo,1480,17,0.0095930211273996
+Tanh,coordenadas do círculo,1500,1,2.0423158968205404e-05
+Tanh,coordenadas do círculo,1500,3,8.123956380666157e-05
+Tanh,coordenadas do círculo,1500,9,0.0008242856157689013
+Tanh,coordenadas do círculo,1500,17,0.009111371231189753
+Tanh,coordenadas do círculo,1520,1,1.8314134086775826e-05
+Tanh,coordenadas do círculo,1520,3,7.226667747382329e-05
+Tanh,coordenadas do círculo,1520,9,0.0008266702137839951
+Tanh,coordenadas do círculo,1520,17,0.00867155396353487
+Tanh,coordenadas do círculo,1540,1,1.45882756769431e-05
+Tanh,coordenadas do círculo,1540,3,6.51732432705394e-05
+Tanh,coordenadas do círculo,1540,9,0.0008239392151763243
+Tanh,coordenadas do círculo,1540,17,0.008268945125737838
+Tanh,coordenadas do círculo,1560,1,1.0594369000373697e-05
+Tanh,coordenadas do círculo,1560,3,5.745985748626731e-05
+Tanh,coordenadas do círculo,1560,9,0.0008169651667106002
+Tanh,coordenadas do círculo,1560,17,0.007899618838072954
+Tanh,coordenadas do círculo,1580,1,9.781601540584724e-06
+Tanh,coordenadas do círculo,1580,3,5.058952244962637e-05
+Tanh,coordenadas do círculo,1580,9,0.0008073888576810647
+Tanh,coordenadas do círculo,1580,17,0.007559588588626447
+Tanh,coordenadas do círculo,1600,1,8.100226612746743e-06
+Tanh,coordenadas do círculo,1600,3,4.411253514859817e-05
+Tanh,coordenadas do círculo,1600,9,0.0007949863857080245
+Tanh,coordenadas do círculo,1600,17,0.007245640072240235
+Tanh,coordenadas do círculo,1620,1,5.801263657554022e-06
+Tanh,coordenadas do círculo,1620,3,3.732506384413966e-05
+Tanh,coordenadas do círculo,1620,9,0.0007804131210185445
+Tanh,coordenadas do círculo,1620,17,0.006954823446224944
+Tanh,coordenadas do círculo,1640,1,4.702134779065199e-06
+Tanh,coordenadas do círculo,1640,3,3.1342130790238997e-05
+Tanh,coordenadas do círculo,1640,9,0.0007646290549014342
+Tanh,coordenadas do círculo,1640,17,0.006684545784475303
+Tanh,coordenadas do círculo,1660,1,2.759522026231626e-06
+Tanh,coordenadas do círculo,1660,3,2.4721063029706186e-05
+Tanh,coordenadas do círculo,1660,9,0.0007471071513983389
+Tanh,coordenadas do círculo,1660,17,0.006432462005149828
+Tanh,coordenadas do círculo,1680,1,3.1078375103429857e-06
+Tanh,coordenadas do círculo,1680,3,2.0028967498992504e-05
+Tanh,coordenadas do círculo,1680,9,0.0007294547009204256
+Tanh,coordenadas do círculo,1680,17,0.006196527955610988
+Tanh,coordenadas do círculo,1700,1,1.0393388201468748e-06
+Tanh,coordenadas do círculo,1700,3,1.4457353222122877e-05
+Tanh,coordenadas do círculo,1700,9,0.0007103294853693193
+Tanh,coordenadas do círculo,1700,17,0.005975301117213109
+Tanh,coordenadas do círculo,1720,1,4.1913254974676643e-07
+Tanh,coordenadas do círculo,1720,3,9.70637465895638e-06
+Tanh,coordenadas do círculo,1720,9,0.0006913577522142435
+Tanh,coordenadas do círculo,1720,17,0.005766973216760595
+Tanh,coordenadas do círculo,1740,1,9.783960618740849e-07
+Tanh,coordenadas do círculo,1740,3,5.137304629860049e-06
+Tanh,coordenadas do círculo,1740,9,0.0006724518977908146
+Tanh,coordenadas do círculo,1740,17,0.0055703206001685044
+Tanh,coordenadas do círculo,1760,1,1.0855719109421426e-05
+Tanh,coordenadas do círculo,1760,3,1.5037991238291896e-06
+Tanh,coordenadas do círculo,1760,9,0.0006502647037445831
+Tanh,coordenadas do círculo,1760,17,0.005385008873340128
+Tanh,coordenadas do círculo,1780,1,0.000741774038570214
+Tanh,coordenadas do círculo,1780,3,0.00011069430961357605
+Tanh,coordenadas do círculo,1780,9,0.0004483872548748769
+Tanh,coordenadas do círculo,1780,17,0.005244014540628468
+Tanh,coordenadas do círculo,1800,1,0.0024171289414495743
+Tanh,coordenadas do círculo,1800,3,0.0001772568081035244
+Tanh,coordenadas do círculo,1800,9,0.0011361928392186601
+Tanh,coordenadas do círculo,1800,17,0.004934964852167296
+Tanh,coordenadas do círculo,1820,1,0.001161373965123936
+Tanh,coordenadas do círculo,1820,3,3.119600316295312e-05
+Tanh,coordenadas do círculo,1820,9,0.0003541508698424276
+Tanh,coordenadas do círculo,1820,17,0.004921398308191633
+Tanh,coordenadas do círculo,1840,1,0.0004440009389787212
+Tanh,coordenadas do círculo,1840,3,2.046339048538867e-05
+Tanh,coordenadas do círculo,1840,9,0.000665580739548493
+Tanh,coordenadas do círculo,1840,17,0.004707013160364921
+Tanh,coordenadas do círculo,1860,1,0.00019642580178957797
+Tanh,coordenadas do círculo,1860,3,3.7397166922555816e-05
+Tanh,coordenadas do círculo,1860,9,0.0005966419869146549
+Tanh,coordenadas do círculo,1860,17,0.004574468936235911
+Tanh,coordenadas do círculo,1880,1,5.576550503936175e-05
+Tanh,coordenadas do círculo,1880,3,9.887158257865548e-06
+Tanh,coordenadas do círculo,1880,9,0.0005332671445547606
+Tanh,coordenadas do círculo,1880,17,0.004447495309640763
+Tanh,coordenadas do círculo,1900,1,0.00013619610441716715
+Tanh,coordenadas do círculo,1900,3,2.81656892522321e-05
+Tanh,coordenadas do círculo,1900,9,0.0005545191148885407
+Tanh,coordenadas do círculo,1900,17,0.004308191962056762
+Tanh,coordenadas do círculo,1920,1,0.006586730534760106
+Tanh,coordenadas do círculo,1920,3,0.00046186416851534494
+Tanh,coordenadas do círculo,1920,9,0.0017702489997952545
+Tanh,coordenadas do círculo,1920,17,0.003931821170873052
+Tanh,coordenadas do círculo,1940,1,0.002818774514487704
+Tanh,coordenadas do círculo,1940,3,0.0002838936331760313
+Tanh,coordenadas do círculo,1940,9,0.0009658910825541616
+Tanh,coordenadas do círculo,1940,17,0.003954652565360961
+Tanh,coordenadas do círculo,1960,1,0.001391067914964203
+Tanh,coordenadas do círculo,1960,3,9.066839329776059e-05
+Tanh,coordenadas do círculo,1960,9,0.0002444920224591404
+Tanh,coordenadas do círculo,1960,17,0.003992990616173086
+Tanh,coordenadas do círculo,1980,1,0.00014862252992995918
+Tanh,coordenadas do círculo,1980,3,1.0734055814078713e-05
+Tanh,coordenadas do círculo,1980,9,0.0004436105006088029
+Tanh,coordenadas do círculo,1980,17,0.0038431169481413165
+Tanh,coordenadas do círculo,2000,1,0.00012968617049093903
+Tanh,coordenadas do círculo,2000,3,1.6755059072438155e-05
+Tanh,coordenadas do círculo,2000,9,0.00043528452499009976
+Tanh,coordenadas do círculo,2000,17,0.0037376063819302727
+Tanh,coordenadas do círculo,2020,1,6.770172657318218e-06
+Tanh,coordenadas do círculo,2020,3,2.894572166163275e-05
+Tanh,coordenadas do círculo,2020,9,0.0004469995785767898
+Tanh,coordenadas do círculo,2020,17,0.0036310980441052443
+Tanh,coordenadas do círculo,2040,1,0.00025766458325912714
+Tanh,coordenadas do círculo,2040,3,7.723239140647899e-06
+Tanh,coordenadas do círculo,2040,9,0.0003919271940407707
+Tanh,coordenadas do círculo,2040,17,0.003542581583567813
+Tanh,coordenadas do círculo,2060,1,0.012167922772438703
+Tanh,coordenadas do círculo,2060,3,0.0010602411176046055
+Tanh,coordenadas do círculo,2060,9,0.0014962667338017115
+Tanh,coordenadas do círculo,2060,17,0.0038680553434188416
+Tanh,coordenadas do círculo,2080,1,0.0015936268389865128
+Tanh,coordenadas do círculo,2080,3,0.00018084132297963436
+Tanh,coordenadas do círculo,2080,9,0.0006439294256557809
+Tanh,coordenadas do círculo,2080,17,0.0032808105958296624
+Tanh,coordenadas do círculo,2100,1,7.214324503371903e-05
+Tanh,coordenadas do círculo,2100,3,4.0865155234233666e-05
+Tanh,coordenadas do círculo,2100,9,0.00041120869293505594
+Tanh,coordenadas do círculo,2100,17,0.0032515951166588114
+Tanh,coordenadas do círculo,2120,1,0.0006404689863542413
+Tanh,coordenadas do círculo,2120,3,2.6243908382155817e-05
+Tanh,coordenadas do círculo,2120,9,0.0003009506828009865
+Tanh,coordenadas do círculo,2120,17,0.003196946494511934
+Tanh,coordenadas do círculo,2140,1,0.00023954995894412846
+Tanh,coordenadas do círculo,2140,3,9.237825852668854e-06
+Tanh,coordenadas do círculo,2140,9,0.00035322848662456684
+Tanh,coordenadas do círculo,2140,17,0.0031050893887348465
+Tanh,coordenadas do círculo,2160,1,4.708213609381334e-05
+Tanh,coordenadas do círculo,2160,3,2.755694243018656e-05
+Tanh,coordenadas do círculo,2160,9,0.0003743923352246319
+Tanh,coordenadas do círculo,2160,17,0.0030210906009297818
+Tanh,coordenadas do círculo,2180,1,9.055810718375441e-05
+Tanh,coordenadas do círculo,2180,3,2.3389288727346037e-05
+Tanh,coordenadas do círculo,2180,9,0.000361322049217171
+Tanh,coordenadas do círculo,2180,17,0.002946788324343305
+Tanh,coordenadas do círculo,2200,1,0.0016312563908790366
+Tanh,coordenadas do círculo,2200,3,0.00011590594080292474
+Tanh,coordenadas do círculo,2200,9,0.00012980079606287728
+Tanh,coordenadas do círculo,2200,17,0.002921477418779955
+Tanh,Fourier explícito,0,1,0.9192925030971665
+Tanh,Fourier explícito,0,3,0.91278710499614
+Tanh,Fourier explícito,0,9,0.9483737343628099
+Tanh,Fourier explícito,0,17,0.9343898300178779
+Tanh,Fourier explícito,20,1,0.24148952452347672
+Tanh,Fourier explícito,20,3,0.095310592714583
+Tanh,Fourier explícito,20,9,0.22342541984112013
+Tanh,Fourier explícito,20,17,0.16213575729507146
+Tanh,Fourier explícito,40,1,0.09957270700588775
+Tanh,Fourier explícito,40,3,0.05641180011761001
+Tanh,Fourier explícito,40,9,0.1093097539875609
+Tanh,Fourier explícito,40,17,0.102147638140775
+Tanh,Fourier explícito,60,1,0.005407912110591003
+Tanh,Fourier explícito,60,3,0.012755178498766775
+Tanh,Fourier explícito,60,9,0.015986134470885923
+Tanh,Fourier explícito,60,17,0.018794623795813443
+Tanh,Fourier explícito,80,1,0.0073601583645720664
+Tanh,Fourier explícito,80,3,0.012297510381000808
+Tanh,Fourier explícito,80,9,0.0029841481761828884
+Tanh,Fourier explícito,80,17,0.003841793902486855
+Tanh,Fourier explícito,100,1,0.009751124036837493
+Tanh,Fourier explícito,100,3,0.0010161273771212512
+Tanh,Fourier explícito,100,9,0.011747881553399496
+Tanh,Fourier explícito,100,17,0.008859858046636396
+Tanh,Fourier explícito,120,1,0.004949482370611694
+Tanh,Fourier explícito,120,3,0.0030215109226492246
+Tanh,Fourier explícito,120,9,0.006537430227738607
+Tanh,Fourier explícito,120,17,0.006957623169997064
+Tanh,Fourier explícito,140,1,0.0025898456877093408
+Tanh,Fourier explícito,140,3,0.002977939985681778
+Tanh,Fourier explícito,140,9,0.004167995552567608
+Tanh,Fourier explícito,140,17,0.004975498924119947
+Tanh,Fourier explícito,160,1,0.002025214920923081
+Tanh,Fourier explícito,160,3,0.002123600492305104
+Tanh,Fourier explícito,160,9,0.0033946796071073204
+Tanh,Fourier explícito,160,17,0.0038442545533237697
+Tanh,Fourier explícito,180,1,0.0016173127298020039
+Tanh,Fourier explícito,180,3,0.0016921018137824539
+Tanh,Fourier explícito,180,9,0.0028362602443954004
+Tanh,Fourier explícito,180,17,0.00317226495903003
+Tanh,Fourier explícito,200,1,0.001234155680622675
+Tanh,Fourier explícito,200,3,0.0014191599668933698
+Tanh,Fourier explícito,200,9,0.0023108882893674
+Tanh,Fourier explícito,200,17,0.0026459183118637854
+Tanh,Fourier explícito,220,1,0.0009163082870393822
+Tanh,Fourier explícito,220,3,0.0011766831723077503
+Tanh,Fourier explícito,220,9,0.0018488478166873087
+Tanh,Fourier explícito,220,17,0.002187163881148501
+Tanh,Fourier explícito,240,1,0.0006723814083554872
+Tanh,Fourier explícito,240,3,0.0009664523077105461
+Tanh,Fourier explícito,240,9,0.001459568680398836
+Tanh,Fourier explícito,240,17,0.0017854730235542216
+Tanh,Fourier explícito,260,1,0.00048625408249575516
+Tanh,Fourier explícito,260,3,0.0007869072967145115
+Tanh,Fourier explícito,260,9,0.0011425827099039241
+Tanh,Fourier explícito,260,17,0.0014464660148075224
+Tanh,Fourier explícito,280,1,0.00034705327420457566
+Tanh,Fourier explícito,280,3,0.0006361410466731602
+Tanh,Fourier explícito,280,9,0.000889046355748659
+Tanh,Fourier explícito,280,17,0.0011658475767303011
+Tanh,Fourier explícito,300,1,0.0002452109153487624
+Tanh,Fourier explícito,300,3,0.0005111441126237606
+Tanh,Fourier explícito,300,9,0.0006890583482209446
+Tanh,Fourier explícito,300,17,0.0009365525686224544
+Tanh,Fourier explícito,320,1,0.000171798978452186
+Tanh,Fourier explícito,320,3,0.0004084075535584715
+Tanh,Fourier explícito,320,9,0.0005334718062620855
+Tanh,Fourier explícito,320,17,0.0007515598746845011
+Tanh,Fourier explícito,340,1,0.00011959076433548092
+Tanh,Fourier explícito,340,3,0.00032482640299503823
+Tanh,Fourier explícito,340,9,0.0004135859250614734
+Tanh,Fourier explícito,340,17,0.0006039215424669467
+Tanh,Fourier explícito,360,1,8.275902097431437e-05
+Tanh,Fourier explícito,360,3,0.00025749149797135745
+Tanh,Fourier explícito,360,9,0.00032201455832129786
+Tanh,Fourier explícito,360,17,0.00048724050929262083
+Tanh,Fourier explícito,380,1,5.703004985179872e-05
+Tanh,Fourier explícito,380,3,0.00020389736135570496
+Tanh,Fourier explícito,380,9,0.0002525250592687864
+Tanh,Fourier explícito,380,17,0.0003954749871832835
+Tanh,Fourier explícito,400,1,3.9072120888358e-05
+Tanh,Fourier explícito,400,3,0.0001614658918025619
+Tanh,Fourier explícito,400,9,0.00020000724661710874
+Tanh,Fourier explícito,400,17,0.00032367324427078775
+Tanh,Fourier explícito,420,1,2.661100825019783e-05
+Tanh,Fourier explícito,420,3,0.00012814612323954142
+Tanh,Fourier explícito,420,9,0.00016046638961159692
+Tanh,Fourier explícito,420,17,0.0002675361340833727
+Tanh,Fourier explícito,440,1,1.8012621184548525e-05
+Tanh,Fourier explícito,440,3,0.00010209764224003484
+Tanh,Fourier explícito,440,9,0.00013071742435402813
+Tanh,Fourier explícito,440,17,0.00022364872778424586
+Tanh,Fourier explícito,460,1,1.2063360431498803e-05
+Tanh,Fourier explícito,460,3,8.171631823283065e-05
+Tanh,Fourier explícito,460,9,0.00010841428171273126
+Tanh,Fourier explícito,460,17,0.00018909400973647327
+Tanh,Fourier explícito,480,1,8.055415145170866e-06
+Tanh,Fourier explícito,480,3,6.581202131698144e-05
+Tanh,Fourier explícito,480,9,9.159812298032235e-05
+Tanh,Fourier explícito,480,17,0.00016186751692106826
+Tanh,Fourier explícito,500,1,5.373342776053796e-06
+Tanh,Fourier explícito,500,3,5.3282622837102174e-05
+Tanh,Fourier explícito,500,9,7.885779259989198e-05
+Tanh,Fourier explícito,500,17,0.0001402247379019363
+Tanh,Fourier explícito,520,1,3.6248289433057286e-06
+Tanh,Fourier explícito,520,3,4.337663059701035e-05
+Tanh,Fourier explícito,520,9,6.9118599061057e-05
+Tanh,Fourier explícito,520,17,0.0001228112767481162
+Tanh,Fourier explícito,540,1,2.563168487068552e-06
+Tanh,Fourier explícito,540,3,3.556764924211962e-05
+Tanh,Fourier explícito,540,9,6.163164347907026e-05
+Tanh,Fourier explícito,540,17,0.0001086871343280825
+Tanh,Fourier explícito,560,1,2.0392220272730485e-06
+Tanh,Fourier explícito,560,3,2.921660106713265e-05
+Tanh,Fourier explícito,560,9,5.5725541722679064e-05
+Tanh,Fourier explícito,560,17,9.721356561112031e-05
+Tanh,Fourier explícito,580,1,1.7972293615355667e-06
+Tanh,Fourier explícito,580,3,2.415963756319222e-05
+Tanh,Fourier explícito,580,9,5.109575444542947e-05
+Tanh,Fourier explícito,580,17,8.773062354454697e-05
+Tanh,Fourier explícito,600,1,1.875445207936133e-06
+Tanh,Fourier explícito,600,3,1.9977837155581323e-05
+Tanh,Fourier explícito,600,9,4.734497891806082e-05
+Tanh,Fourier explícito,600,17,7.986526064664866e-05
+Tanh,Fourier explícito,620,1,2.0533283908416375e-06
+Tanh,Fourier explícito,620,3,1.6543818516577227e-05
+Tanh,Fourier explícito,620,9,4.416074384828498e-05
+Tanh,Fourier explícito,620,17,7.322327420921543e-05
+Tanh,Fourier explícito,640,1,2.4019524054184276e-06
+Tanh,Fourier explícito,640,3,1.3687454977988284e-05
+Tanh,Fourier explícito,640,9,4.168833709253981e-05
+Tanh,Fourier explícito,640,17,6.762803679571469e-05
+Tanh,Fourier explícito,660,1,2.7581622902162013e-06
+Tanh,Fourier explícito,660,3,1.1258057754681408e-05
+Tanh,Fourier explícito,660,9,3.9416441205964426e-05
+Tanh,Fourier explícito,660,17,6.286003785236212e-05
+Tanh,Fourier explícito,680,1,3.2301982242447115e-06
+Tanh,Fourier explícito,680,3,9.258224795535044e-06
+Tanh,Fourier explícito,680,9,3.753320748871692e-05
+Tanh,Fourier explícito,680,17,5.8708437839396853e-05
+Tanh,Fourier explícito,700,1,3.6869323449272324e-06
+Tanh,Fourier explícito,700,3,7.572174847512877e-06
+Tanh,Fourier explícito,700,9,3.5825383099004685e-05
+Tanh,Fourier explícito,700,17,5.520630854056853e-05
+Tanh,Fourier explícito,720,1,4.174465522258092e-06
+Tanh,Fourier explícito,720,3,6.106047303013923e-06
+Tanh,Fourier explícito,720,9,3.4318215502483547e-05
+Tanh,Fourier explícito,720,17,5.211255646530445e-05
+Tanh,Fourier explícito,740,1,4.590812089754481e-06
+Tanh,Fourier explícito,740,3,4.83831287855992e-06
+Tanh,Fourier explícito,740,9,3.301478350097712e-05
+Tanh,Fourier explícito,740,17,4.935404960294618e-05
+Tanh,Fourier explícito,760,1,5.120185553494622e-06
+Tanh,Fourier explícito,760,3,3.774420480045426e-06
+Tanh,Fourier explícito,760,9,3.170661854011705e-05
+Tanh,Fourier explícito,760,17,4.694803550025859e-05
+Tanh,Fourier explícito,780,1,5.498629301647936e-06
+Tanh,Fourier explícito,780,3,2.876093682988338e-06
+Tanh,Fourier explícito,780,9,3.061969149195216e-05
+Tanh,Fourier explícito,780,17,4.4817871170321504e-05
+Tanh,Fourier explícito,800,1,5.8941264290163216e-06
+Tanh,Fourier explícito,800,3,2.0385348116081335e-06
+Tanh,Fourier explícito,800,9,2.962045705394597e-05
+Tanh,Fourier explícito,800,17,4.2851912361069236e-05
+Tanh,Fourier explícito,820,1,6.216151411377679e-06
+Tanh,Fourier explícito,820,3,1.3957867300356793e-06
+Tanh,Fourier explícito,820,9,2.8599197734010425e-05
+Tanh,Fourier explícito,820,17,4.112260976815793e-05
+Tanh,Fourier explícito,840,1,6.59152522055965e-06
+Tanh,Fourier explícito,840,3,7.049727375742499e-07
+Tanh,Fourier explícito,840,9,2.7730888986686965e-05
+Tanh,Fourier explícito,840,17,3.963200734501921e-05
+Tanh,Fourier explícito,860,1,6.811466117047512e-06
+Tanh,Fourier explícito,860,3,2.2213715596049995e-07
+Tanh,Fourier explícito,860,9,2.686029627102316e-05
+Tanh,Fourier explícito,860,17,3.813117336738187e-05
+Tanh,Fourier explícito,880,1,7.131761966524581e-06
+Tanh,Fourier explícito,880,3,2.5391211529352256e-07
+Tanh,Fourier explícito,880,9,2.6150678187872612e-05
+Tanh,Fourier explícito,880,17,3.6829684556969835e-05
+Tanh,Fourier explícito,900,1,7.2709492017746466e-06
+Tanh,Fourier explícito,900,3,6.85887435456754e-07
+Tanh,Fourier explícito,900,9,2.530222439667604e-05
+Tanh,Fourier explícito,900,17,3.565270607725925e-05
+Tanh,Fourier explícito,920,1,7.489603588743283e-06
+Tanh,Fourier explícito,920,3,1.046260703549089e-06
+Tanh,Fourier explícito,920,9,2.4654703645409983e-05
+Tanh,Fourier explícito,920,17,3.450178836718115e-05
+Tanh,Fourier explícito,940,1,7.647825150793974e-06
+Tanh,Fourier explícito,940,3,1.2999255206164573e-06
+Tanh,Fourier explícito,940,9,2.3972805564736e-05
+Tanh,Fourier explícito,940,17,3.3519624487545126e-05
+Tanh,Fourier explícito,960,1,7.714060434554074e-06
+Tanh,Fourier explícito,960,3,1.6379035508752743e-06
+Tanh,Fourier explícito,960,9,2.3339157841581898e-05
+Tanh,Fourier explícito,960,17,3.25362774603335e-05
+Tanh,Fourier explícito,980,1,7.882047248858079e-06
+Tanh,Fourier explícito,980,3,1.8466447715828011e-06
+Tanh,Fourier explícito,980,9,2.2772454956952013e-05
+Tanh,Fourier explícito,980,17,3.161494193171064e-05
+Tanh,Fourier explícito,1000,1,7.941883144590953e-06
+Tanh,Fourier explícito,1000,3,2.067304474494217e-06
+Tanh,Fourier explícito,1000,9,2.2136386042820076e-05
+Tanh,Fourier explícito,1000,17,3.079440995388012e-05
+Tanh,Fourier explícito,1020,1,8.029276657992722e-06
+Tanh,Fourier explícito,1020,3,2.224649636699771e-06
+Tanh,Fourier explícito,1020,9,2.1628135810200044e-05
+Tanh,Fourier explícito,1020,17,2.996192923610039e-05
+Tanh,Fourier explícito,1040,1,8.090933053495861e-06
+Tanh,Fourier explícito,1040,3,2.436404615482911e-06
+Tanh,Fourier explícito,1040,9,2.1138921758140267e-05
+Tanh,Fourier explícito,1040,17,2.9213473321722673e-05
+Tanh,Fourier explícito,1060,1,8.095682278811977e-06
+Tanh,Fourier explícito,1060,3,2.5487352519716153e-06
+Tanh,Fourier explícito,1060,9,2.0598988760271448e-05
+Tanh,Fourier explícito,1060,17,2.8521474028202477e-05
+Tanh,Fourier explícito,1080,1,8.141040430138382e-06
+Tanh,Fourier explícito,1080,3,2.698156270042093e-06
+Tanh,Fourier explícito,1080,9,2.0119894635034838e-05
+Tanh,Fourier explícito,1080,17,2.7817324620470134e-05
+Tanh,Fourier explícito,1100,1,8.12909581921295e-06
+Tanh,Fourier explícito,1100,3,2.8243227482736274e-06
+Tanh,Fourier explícito,1100,9,1.9650813039084472e-05
+Tanh,Fourier explícito,1100,17,2.7176276493582287e-05
+Tanh,Fourier explícito,1120,1,8.072946442158542e-06
+Tanh,Fourier explícito,1120,3,2.8165251823359673e-06
+Tanh,Fourier explícito,1120,9,1.920739331941662e-05
+Tanh,Fourier explícito,1120,17,2.6537162663523798e-05
+Tanh,Fourier explícito,1140,1,8.062446871290744e-06
+Tanh,Fourier explícito,1140,3,2.9175076441228856e-06
+Tanh,Fourier explícito,1140,9,1.8777147168182934e-05
+Tanh,Fourier explícito,1140,17,2.594754019599514e-05
+Tanh,Fourier explícito,1160,1,8.022920991454837e-06
+Tanh,Fourier explícito,1160,3,2.9740866465031173e-06
+Tanh,Fourier explícito,1160,9,1.8389828430576806e-05
+Tanh,Fourier explícito,1160,17,2.538716577820894e-05
+Tanh,Fourier explícito,1180,1,7.997106617770685e-06
+Tanh,Fourier explícito,1180,3,3.022097821927527e-06
+Tanh,Fourier explícito,1180,9,1.7950897130455867e-05
+Tanh,Fourier explícito,1180,17,2.4827779233527806e-05
+Tanh,Fourier explícito,1200,1,7.978312388459166e-06
+Tanh,Fourier explícito,1200,3,3.0896052964080613e-06
+Tanh,Fourier explícito,1200,9,1.7574025720088777e-05
+Tanh,Fourier explícito,1200,17,2.4280327662663886e-05
+Tanh,Fourier explícito,1220,1,7.896781779346653e-06
+Tanh,Fourier explícito,1220,3,3.0860201160827597e-06
+Tanh,Fourier explícito,1220,9,1.710500085780359e-05
+Tanh,Fourier explícito,1220,17,2.3763180686445047e-05
+Tanh,Fourier explícito,1240,1,7.831139230727457e-06
+Tanh,Fourier explícito,1240,3,3.090124742243537e-06
+Tanh,Fourier explícito,1240,9,1.6782177044044413e-05
+Tanh,Fourier explícito,1240,17,2.329339852755299e-05
+Tanh,Fourier explícito,1260,1,7.794179899732193e-06
+Tanh,Fourier explícito,1260,3,3.0818750951292056e-06
+Tanh,Fourier explícito,1260,9,1.6416032164671276e-05
+Tanh,Fourier explícito,1260,17,2.2832553104674245e-05
+Tanh,Fourier explícito,1280,1,7.682079754014453e-06
+Tanh,Fourier explícito,1280,3,3.1547808615931193e-06
+Tanh,Fourier explícito,1280,9,1.6036063057730814e-05
+Tanh,Fourier explícito,1280,17,2.23784284527316e-05
+Tanh,Fourier explícito,1300,1,7.666442512274625e-06
+Tanh,Fourier explícito,1300,3,3.1337102879287487e-06
+Tanh,Fourier explícito,1300,9,1.568846304560118e-05
+Tanh,Fourier explícito,1300,17,2.1878490358449635e-05
+Tanh,Fourier explícito,1320,1,7.590463038829154e-06
+Tanh,Fourier explícito,1320,3,3.095226661246398e-06
+Tanh,Fourier explícito,1320,9,1.5395294643644943e-05
+Tanh,Fourier explícito,1320,17,2.1465891986555756e-05
+Tanh,Fourier explícito,1340,1,7.469686453333095e-06
+Tanh,Fourier explícito,1340,3,3.0301025577924483e-06
+Tanh,Fourier explícito,1340,9,1.5083690471971227e-05
+Tanh,Fourier explícito,1340,17,2.1054456684083903e-05
+Tanh,Fourier explícito,1360,1,7.412971879540119e-06
+Tanh,Fourier explícito,1360,3,3.058085928436007e-06
+Tanh,Fourier explícito,1360,9,1.4749906921668035e-05
+Tanh,Fourier explícito,1360,17,2.062621227880783e-05
+Tanh,Fourier explícito,1380,1,7.3116858131838476e-06
+Tanh,Fourier explícito,1380,3,3.0532055007519517e-06
+Tanh,Fourier explícito,1380,9,1.4417086175938423e-05
+Tanh,Fourier explícito,1380,17,2.0156103118345922e-05
+Tanh,Fourier explícito,1400,1,7.26983604859411e-06
+Tanh,Fourier explícito,1400,3,2.971333131080461e-06
+Tanh,Fourier explícito,1400,9,1.4115001957204989e-05
+Tanh,Fourier explícito,1400,17,1.9858803227632124e-05
+Tanh,Fourier explícito,1420,1,7.232347114613582e-06
+Tanh,Fourier explícito,1420,3,2.931187139566959e-06
+Tanh,Fourier explícito,1420,9,1.3883199347441199e-05
+Tanh,Fourier explícito,1420,17,1.9500989666057458e-05
+Tanh,Fourier explícito,1440,1,7.112113399835773e-06
+Tanh,Fourier explícito,1440,3,2.907441038908438e-06
+Tanh,Fourier explícito,1440,9,1.3586778400471402e-05
+Tanh,Fourier explícito,1440,17,1.9107356253574267e-05
+Tanh,Fourier explícito,1460,1,6.970337972835391e-06
+Tanh,Fourier explícito,1460,3,2.9097069883776613e-06
+Tanh,Fourier explícito,1460,9,1.33328142428175e-05
+Tanh,Fourier explícito,1460,17,1.8703895672774338e-05
+Tanh,Fourier explícito,1480,1,6.891203458377371e-06
+Tanh,Fourier explícito,1480,3,2.8555277248526405e-06
+Tanh,Fourier explícito,1480,9,1.3044917132202874e-05
+Tanh,Fourier explícito,1480,17,1.838033635891368e-05
+Tanh,Fourier explícito,1500,1,6.828610371074571e-06
+Tanh,Fourier explícito,1500,3,2.79791754316406e-06
+Tanh,Fourier explícito,1500,9,1.2797571621561462e-05
+Tanh,Fourier explícito,1500,17,1.803734406066418e-05
+Tanh,Fourier explícito,1520,1,6.807537063653965e-06
+Tanh,Fourier explícito,1520,3,2.7838295683391707e-06
+Tanh,Fourier explícito,1520,9,1.2597157299542486e-05
+Tanh,Fourier explícito,1520,17,1.7703963596069683e-05
+Tanh,Fourier explícito,1540,1,6.716431186917944e-06
+Tanh,Fourier explícito,1540,3,2.7332565053021593e-06
+Tanh,Fourier explícito,1540,9,1.2338281386421225e-05
+Tanh,Fourier explícito,1540,17,1.7435403187784847e-05
+Tanh,Fourier explícito,1560,1,6.653480576019963e-06
+Tanh,Fourier explícito,1560,3,2.7012325686058742e-06
+Tanh,Fourier explícito,1560,9,1.1997833396374894e-05
+Tanh,Fourier explícito,1560,17,1.7047117987935904e-05
+Tanh,Fourier explícito,1580,1,6.566516551314799e-06
+Tanh,Fourier explícito,1580,3,2.6720505741418965e-06
+Tanh,Fourier explícito,1580,9,1.1784559727020471e-05
+Tanh,Fourier explícito,1580,17,1.6772641839169796e-05
+Tanh,Fourier explícito,1600,1,6.498434158464843e-06
+Tanh,Fourier explícito,1600,3,2.651486731417452e-06
+Tanh,Fourier explícito,1600,9,1.1516559028486064e-05
+Tanh,Fourier explícito,1600,17,1.6449750965345587e-05
+Tanh,Fourier explícito,1620,1,6.43932071471914e-06
+Tanh,Fourier explícito,1620,3,2.5947173149790903e-06
+Tanh,Fourier explícito,1620,9,1.1358367615753168e-05
+Tanh,Fourier explícito,1620,17,1.6163068627878595e-05
+Tanh,Fourier explícito,1640,1,6.3282062672707784e-06
+Tanh,Fourier explícito,1640,3,2.5517370645511663e-06
+Tanh,Fourier explícito,1640,9,1.1150300250404953e-05
+Tanh,Fourier explícito,1640,17,1.5854912201859487e-05
+Tanh,Fourier explícito,1660,1,6.275312185754673e-06
+Tanh,Fourier explícito,1660,3,2.546163674689502e-06
+Tanh,Fourier explícito,1660,9,1.0886885568687499e-05
+Tanh,Fourier explícito,1660,17,1.5586810529623442e-05
+Tanh,Fourier explícito,1680,1,6.200939116517189e-06
+Tanh,Fourier explícito,1680,3,2.4908677299998346e-06
+Tanh,Fourier explícito,1680,9,1.0709380733810138e-05
+Tanh,Fourier explícito,1680,17,1.5282856796629163e-05
+Tanh,Fourier explícito,1700,1,6.138987823747698e-06
+Tanh,Fourier explícito,1700,3,2.457703957947725e-06
+Tanh,Fourier explícito,1700,9,1.0489885536575104e-05
+Tanh,Fourier explícito,1700,17,1.5059466502087054e-05
+Tanh,Fourier explícito,1720,1,6.071618946057239e-06
+Tanh,Fourier explícito,1720,3,2.3531866092268708e-06
+Tanh,Fourier explícito,1720,9,1.0274657890223085e-05
+Tanh,Fourier explícito,1720,17,1.475191543457063e-05
+Tanh,Fourier explícito,1740,1,5.987168339185872e-06
+Tanh,Fourier explícito,1740,3,2.3484559082369373e-06
+Tanh,Fourier explícito,1740,9,1.0089031072965011e-05
+Tanh,Fourier explícito,1740,17,1.448103107667036e-05
+Tanh,Fourier explícito,1760,1,5.9001176869025285e-06
+Tanh,Fourier explícito,1760,3,2.2973406065642672e-06
+Tanh,Fourier explícito,1760,9,9.851717156892825e-06
+Tanh,Fourier explícito,1760,17,1.4212265297897426e-05
+Tanh,Fourier explícito,1780,1,5.841991751279899e-06
+Tanh,Fourier explícito,1780,3,2.315953960342775e-06
+Tanh,Fourier explícito,1780,9,9.685080237647221e-06
+Tanh,Fourier explícito,1780,17,1.3989055441424613e-05
+Tanh,Fourier explícito,1800,1,5.804192528028917e-06
+Tanh,Fourier explícito,1800,3,2.266899367897646e-06
+Tanh,Fourier explícito,1800,9,9.523862089135794e-06
+Tanh,Fourier explícito,1800,17,1.373479615849158e-05
+Tanh,Fourier explícito,1820,1,5.705558809147302e-06
+Tanh,Fourier explícito,1820,3,2.2069869108994935e-06
+Tanh,Fourier explícito,1820,9,9.32545182707071e-06
+Tanh,Fourier explícito,1820,17,1.3475542055832004e-05
+Tanh,Fourier explícito,1840,1,5.659401862341599e-06
+Tanh,Fourier explícito,1840,3,2.165090281956919e-06
+Tanh,Fourier explícito,1840,9,9.112484305305932e-06
+Tanh,Fourier explícito,1840,17,1.3249154560561032e-05
+Tanh,Fourier explícito,1860,1,5.56032674642277e-06
+Tanh,Fourier explícito,1860,3,2.119604154449869e-06
+Tanh,Fourier explícito,1860,9,8.959209798375336e-06
+Tanh,Fourier explícito,1860,17,1.3009630182573793e-05
+Tanh,Fourier explícito,1880,1,5.515163683860307e-06
+Tanh,Fourier explícito,1880,3,2.0894015546135646e-06
+Tanh,Fourier explícito,1880,9,8.82822963594993e-06
+Tanh,Fourier explícito,1880,17,1.2798074910955533e-05
+Tanh,Fourier explícito,1900,1,5.428301954435403e-06
+Tanh,Fourier explícito,1900,3,2.0196304177407708e-06
+Tanh,Fourier explícito,1900,9,8.591262866012761e-06
+Tanh,Fourier explícito,1900,17,1.2584081363356865e-05
+Tanh,Fourier explícito,1920,1,5.395439616916058e-06
+Tanh,Fourier explícito,1920,3,2.0100398088544367e-06
+Tanh,Fourier explícito,1920,9,8.446917413400956e-06
+Tanh,Fourier explícito,1920,17,1.2300016512143978e-05
+Tanh,Fourier explícito,1940,1,5.298302366792597e-06
+Tanh,Fourier explícito,1940,3,2.035365916069413e-06
+Tanh,Fourier explícito,1940,9,8.283364274774799e-06
+Tanh,Fourier explícito,1940,17,1.2178652854527587e-05
+Tanh,Fourier explícito,1960,1,5.25870532294212e-06
+Tanh,Fourier explícito,1960,3,1.938906409435271e-06
+Tanh,Fourier explícito,1960,9,8.09686028805981e-06
+Tanh,Fourier explícito,1960,17,1.1901720593787035e-05
+Tanh,Fourier explícito,1980,1,5.2125228332651855e-06
+Tanh,Fourier explícito,1980,3,1.8715055440793826e-06
+Tanh,Fourier explícito,1980,9,8.004391390725824e-06
+Tanh,Fourier explícito,1980,17,1.1683708031993036e-05
+Tanh,Fourier explícito,2000,1,5.126457019903236e-06
+Tanh,Fourier explícito,2000,3,1.8753900185845212e-06
+Tanh,Fourier explícito,2000,9,7.822108106286903e-06
+Tanh,Fourier explícito,2000,17,1.1513006165925273e-05
+Tanh,Fourier explícito,2020,1,5.074452111263452e-06
+Tanh,Fourier explícito,2020,3,1.8294392672776515e-06
+Tanh,Fourier explícito,2020,9,7.710552433279552e-06
+Tanh,Fourier explícito,2020,17,1.1324643610212763e-05
+Tanh,Fourier explícito,2040,1,5.004168299660209e-06
+Tanh,Fourier explícito,2040,3,1.8105187955787e-06
+Tanh,Fourier explícito,2040,9,7.538734656958753e-06
+Tanh,Fourier explícito,2040,17,1.1099123977929509e-05
+Tanh,Fourier explícito,2060,1,4.981088774587129e-06
+Tanh,Fourier explícito,2060,3,1.7568443003342214e-06
+Tanh,Fourier explícito,2060,9,7.402943778004735e-06
+Tanh,Fourier explícito,2060,17,1.0918740287960145e-05
+Tanh,Fourier explícito,2080,1,4.872229896034916e-06
+Tanh,Fourier explícito,2080,3,1.7693805138408393e-06
+Tanh,Fourier explícito,2080,9,7.206883634201361e-06
+Tanh,Fourier explícito,2080,17,1.0731609249254803e-05
+Tanh,Fourier explícito,2100,1,4.836776524227851e-06
+Tanh,Fourier explícito,2100,3,1.6938453334351702e-06
+Tanh,Fourier explícito,2100,9,7.097105736016449e-06
+Tanh,Fourier explícito,2100,17,1.0495267593699818e-05
+Tanh,Fourier explícito,2120,1,4.783172110306349e-06
+Tanh,Fourier explícito,2120,3,1.6509689663054966e-06
+Tanh,Fourier explícito,2120,9,6.945123764318127e-06
+Tanh,Fourier explícito,2120,17,1.0336292522680031e-05
+Tanh,Fourier explícito,2140,1,4.7456369598040975e-06
+Tanh,Fourier explícito,2140,3,1.6554659703575026e-06
+Tanh,Fourier explícito,2140,9,6.843373330868153e-06
+Tanh,Fourier explícito,2140,17,1.0123879043152853e-05
+Tanh,Fourier explícito,2160,1,4.629647418243087e-06
+Tanh,Fourier explícito,2160,3,1.6209125492921672e-06
+Tanh,Fourier explícito,2160,9,6.710514757186532e-06
+Tanh,Fourier explícito,2160,17,9.972918734725958e-06
+Tanh,Fourier explícito,2180,1,4.650916792945232e-06
+Tanh,Fourier explícito,2180,3,1.5549160050469824e-06
+Tanh,Fourier explícito,2180,9,6.576917364426876e-06
+Tanh,Fourier explícito,2180,17,9.805255973038586e-06
+Tanh,Fourier explícito,2200,1,4.501434203654196e-06
+Tanh,Fourier explícito,2200,3,1.5465460765598255e-06
+Tanh,Fourier explícito,2200,9,6.4443050596633506e-06
+Tanh,Fourier explícito,2200,17,9.611028546138909e-06
+ReLU,coordenadas do círculo,0,1,0.9726067966537832
+ReLU,coordenadas do círculo,0,3,0.9971005820303764
+ReLU,coordenadas do círculo,0,9,1.0008115374462005
+ReLU,coordenadas do círculo,0,17,0.9998511408022978
+ReLU,coordenadas do círculo,20,1,0.057503630847015125
+ReLU,coordenadas do círculo,20,3,0.9161667624874903
+ReLU,coordenadas do círculo,20,9,0.9977194547603879
+ReLU,coordenadas do círculo,20,17,1.0006555402666806
+ReLU,coordenadas do círculo,40,1,0.03042641594806945
+ReLU,coordenadas do círculo,40,3,0.7852957501461792
+ReLU,coordenadas do círculo,40,9,0.987147816951581
+ReLU,coordenadas do círculo,40,17,1.0007940091598488
+ReLU,coordenadas do círculo,60,1,0.07717349830618907
+ReLU,coordenadas do círculo,60,3,0.5925337527845784
+ReLU,coordenadas do círculo,60,9,0.9837359061701543
+ReLU,coordenadas do círculo,60,17,1.0001553343239982
+ReLU,coordenadas do círculo,80,1,0.04814255154079499
+ReLU,coordenadas do círculo,80,3,0.32525265524306946
+ReLU,coordenadas do círculo,80,9,0.9721539927509198
+ReLU,coordenadas do círculo,80,17,0.9905709679903105
+ReLU,coordenadas do círculo,100,1,0.02259802912120071
+ReLU,coordenadas do círculo,100,3,0.10675885757702006
+ReLU,coordenadas do círculo,100,9,0.9347922258064754
+ReLU,coordenadas do círculo,100,17,0.9775671954953313
+ReLU,coordenadas do círculo,120,1,0.012845024564875393
+ReLU,coordenadas do círculo,120,3,0.0015990399848222472
+ReLU,coordenadas do círculo,120,9,0.898294986935864
+ReLU,coordenadas do círculo,120,17,0.9672637254312232
+ReLU,coordenadas do círculo,140,1,0.006139064257791071
+ReLU,coordenadas do círculo,140,3,0.04581814948512885
+ReLU,coordenadas do círculo,140,9,0.8656655266507168
+ReLU,coordenadas do círculo,140,17,0.9654888482771375
+ReLU,coordenadas do círculo,160,1,0.0036788536630961333
+ReLU,coordenadas do círculo,160,3,0.05972610661679529
+ReLU,coordenadas do círculo,160,9,0.8298839352754926
+ReLU,coordenadas do círculo,160,17,0.9609013065337215
+ReLU,coordenadas do círculo,180,1,0.005001202249899576
+ReLU,coordenadas do círculo,180,3,0.07200339517627172
+ReLU,coordenadas do círculo,180,9,0.8020646414035192
+ReLU,coordenadas do círculo,180,17,0.9501299473913585
+ReLU,coordenadas do círculo,200,1,0.003530942052708972
+ReLU,coordenadas do círculo,200,3,0.10006005865684461
+ReLU,coordenadas do círculo,200,9,0.7779901596471336
+ReLU,coordenadas do círculo,200,17,0.9421731078985865
+ReLU,coordenadas do círculo,220,1,0.004823990293139195
+ReLU,coordenadas do círculo,220,3,0.10816891866168005
+ReLU,coordenadas do círculo,220,9,0.7499151910482331
+ReLU,coordenadas do círculo,220,17,0.9348124361979474
+ReLU,coordenadas do círculo,240,1,0.004154044785057275
+ReLU,coordenadas do círculo,240,3,0.11954573471199659
+ReLU,coordenadas do círculo,240,9,0.7165414787296364
+ReLU,coordenadas do círculo,240,17,0.9315482833481925
+ReLU,coordenadas do círculo,260,1,0.004907893028581771
+ReLU,coordenadas do círculo,260,3,0.11734184762151095
+ReLU,coordenadas do círculo,260,9,0.682843836871315
+ReLU,coordenadas do círculo,260,17,0.9243042529861495
+ReLU,coordenadas do círculo,280,1,0.002071330099973389
+ReLU,coordenadas do círculo,280,3,0.1115498084618152
+ReLU,coordenadas do círculo,280,9,0.6553009780944902
+ReLU,coordenadas do círculo,280,17,0.9020845175459645
+ReLU,coordenadas do círculo,300,1,0.004600213838264702
+ReLU,coordenadas do círculo,300,3,0.10924645399222221
+ReLU,coordenadas do círculo,300,9,0.6097373205613603
+ReLU,coordenadas do círculo,300,17,0.8915992396178097
+ReLU,coordenadas do círculo,320,1,0.0008549296600761118
+ReLU,coordenadas do círculo,320,3,0.10879914585208511
+ReLU,coordenadas do círculo,320,9,0.5734392118588629
+ReLU,coordenadas do círculo,320,17,0.8753113809889521
+ReLU,coordenadas do círculo,340,1,3.71012854551752e-05
+ReLU,coordenadas do círculo,340,3,0.1043020273365515
+ReLU,coordenadas do círculo,340,9,0.5353223102490389
+ReLU,coordenadas do círculo,340,17,0.8581572830027067
+ReLU,coordenadas do círculo,360,1,0.000452467612141049
+ReLU,coordenadas do círculo,360,3,0.09807310623242439
+ReLU,coordenadas do círculo,360,9,0.5055369420429641
+ReLU,coordenadas do círculo,360,17,0.8388273029490959
+ReLU,coordenadas do círculo,380,1,0.00021601329977619517
+ReLU,coordenadas do círculo,380,3,0.09154234625951942
+ReLU,coordenadas do círculo,380,9,0.4804334059758001
+ReLU,coordenadas do círculo,380,17,0.8201719427786056
+ReLU,coordenadas do círculo,400,1,0.0002229541483073192
+ReLU,coordenadas do círculo,400,3,0.09038395732528474
+ReLU,coordenadas do círculo,400,9,0.45353248342152397
+ReLU,coordenadas do círculo,400,17,0.8037031469249367
+ReLU,coordenadas do círculo,420,1,0.008740044382969584
+ReLU,coordenadas do círculo,420,3,0.08460563430034086
+ReLU,coordenadas do círculo,420,9,0.4277491763585899
+ReLU,coordenadas do círculo,420,17,0.7862550607274379
+ReLU,coordenadas do círculo,440,1,0.004151071123786001
+ReLU,coordenadas do círculo,440,3,0.07963943153612284
+ReLU,coordenadas do círculo,440,9,0.4000339133496087
+ReLU,coordenadas do círculo,440,17,0.7675077565417845
+ReLU,coordenadas do círculo,460,1,0.0012951657386656007
+ReLU,coordenadas do círculo,460,3,0.07688337627190465
+ReLU,coordenadas do círculo,460,9,0.3702059273904279
+ReLU,coordenadas do círculo,460,17,0.7507361108134043
+ReLU,coordenadas do círculo,480,1,0.0065744009199204855
+ReLU,coordenadas do círculo,480,3,0.08052281624540697
+ReLU,coordenadas do círculo,480,9,0.3367180342342187
+ReLU,coordenadas do círculo,480,17,0.7319352534370833
+ReLU,coordenadas do círculo,500,1,0.0032800347666717615
+ReLU,coordenadas do círculo,500,3,0.07187064079657986
+ReLU,coordenadas do círculo,500,9,0.31042954338718604
+ReLU,coordenadas do círculo,500,17,0.7141978832483589
+ReLU,coordenadas do círculo,520,1,0.005302466079081942
+ReLU,coordenadas do círculo,520,3,0.06256998758380442
+ReLU,coordenadas do círculo,520,9,0.2820909342681784
+ReLU,coordenadas do círculo,520,17,0.6964509788519974
+ReLU,coordenadas do círculo,540,1,0.0016880512222813113
+ReLU,coordenadas do círculo,540,3,0.05996852408275859
+ReLU,coordenadas do círculo,540,9,0.24572590488105445
+ReLU,coordenadas do círculo,540,17,0.6769397765342623
+ReLU,coordenadas do círculo,560,1,0.016484948640622773
+ReLU,coordenadas do círculo,560,3,0.042272800902800264
+ReLU,coordenadas do círculo,560,9,0.22171134641638374
+ReLU,coordenadas do círculo,560,17,0.6604686181362566
+ReLU,coordenadas do círculo,580,1,0.0074348568628190516
+ReLU,coordenadas do círculo,580,3,0.035193657970080346
+ReLU,coordenadas do círculo,580,9,0.1891951922310255
+ReLU,coordenadas do círculo,580,17,0.64434663183146
+ReLU,coordenadas do círculo,600,1,0.0027136516928325067
+ReLU,coordenadas do círculo,600,3,0.030592815454861037
+ReLU,coordenadas do círculo,600,9,0.15396110117865958
+ReLU,coordenadas do círculo,600,17,0.6302720688787701
+ReLU,coordenadas do círculo,620,1,0.006794235497307775
+ReLU,coordenadas do círculo,620,3,0.02515254703662096
+ReLU,coordenadas do círculo,620,9,0.12319490108291974
+ReLU,coordenadas do círculo,620,17,0.6159099423257925
+ReLU,coordenadas do círculo,640,1,0.011703276342018808
+ReLU,coordenadas do círculo,640,3,0.012508905132480428
+ReLU,coordenadas do círculo,640,9,0.09928575268434914
+ReLU,coordenadas do círculo,640,17,0.6008858696789139
+ReLU,coordenadas do círculo,660,1,0.011341505755081506
+ReLU,coordenadas do círculo,660,3,0.009459212643221466
+ReLU,coordenadas do círculo,660,9,0.08120306019677094
+ReLU,coordenadas do círculo,660,17,0.5830678895122028
+ReLU,coordenadas do círculo,680,1,0.026741674408326095
+ReLU,coordenadas do círculo,680,3,0.02659337070527677
+ReLU,coordenadas do círculo,680,9,0.05672395075106364
+ReLU,coordenadas do círculo,680,17,0.5667837813639821
+ReLU,coordenadas do círculo,700,1,0.017128496590598664
+ReLU,coordenadas do círculo,700,3,0.005002632674663866
+ReLU,coordenadas do círculo,700,9,0.04949724139412488
+ReLU,coordenadas do círculo,700,17,0.5576637051303633
+ReLU,coordenadas do círculo,720,1,0.0021478843971457448
+ReLU,coordenadas do círculo,720,3,0.010055919311802788
+ReLU,coordenadas do círculo,720,9,0.02850017443992024
+ReLU,coordenadas do círculo,720,17,0.5434744659617885
+ReLU,coordenadas do círculo,740,1,0.0029425743378695174
+ReLU,coordenadas do círculo,740,3,0.009657399218422645
+ReLU,coordenadas do círculo,740,9,0.01865538183191804
+ReLU,coordenadas do círculo,740,17,0.5334541602377603
+ReLU,coordenadas do círculo,760,1,0.0008622712380334666
+ReLU,coordenadas do círculo,760,3,0.0069467367458424115
+ReLU,coordenadas do círculo,760,9,0.004801877107749431
+ReLU,coordenadas do círculo,760,17,0.5232322187122592
+ReLU,coordenadas do círculo,780,1,0.0005384294624300583
+ReLU,coordenadas do círculo,780,3,0.00450937315822979
+ReLU,coordenadas do círculo,780,9,0.005428041658072989
+ReLU,coordenadas do círculo,780,17,0.5141340812677047
+ReLU,coordenadas do círculo,800,1,0.0001486562132373973
+ReLU,coordenadas do círculo,800,3,0.004183630741437717
+ReLU,coordenadas do círculo,800,9,0.019260538300095033
+ReLU,coordenadas do círculo,800,17,0.5051768219241886
+ReLU,coordenadas do círculo,820,1,0.0005219531739988782
+ReLU,coordenadas do círculo,820,3,0.003449706764392707
+ReLU,coordenadas do círculo,820,9,0.020391495908623738
+ReLU,coordenadas do círculo,820,17,0.49592818736895
+ReLU,coordenadas do círculo,840,1,0.0007468112453329132
+ReLU,coordenadas do círculo,840,3,0.0014530080791104918
+ReLU,coordenadas do círculo,840,9,0.029062051810220358
+ReLU,coordenadas do círculo,840,17,0.48668213756627676
+ReLU,coordenadas do círculo,860,1,0.008377928479347143
+ReLU,coordenadas do círculo,860,3,0.0010765688297607043
+ReLU,coordenadas do círculo,860,9,0.035979051325490244
+ReLU,coordenadas do círculo,860,17,0.4793177511338215
+ReLU,coordenadas do círculo,880,1,0.013055141598044332
+ReLU,coordenadas do círculo,880,3,0.0030675685472029415
+ReLU,coordenadas do círculo,880,9,0.04108740038685944
+ReLU,coordenadas do círculo,880,17,0.4725512546344549
+ReLU,coordenadas do círculo,900,1,0.0012099569938693797
+ReLU,coordenadas do círculo,900,3,0.0014414134851242536
+ReLU,coordenadas do círculo,900,9,0.04798994615251914
+ReLU,coordenadas do círculo,900,17,0.4651775678847588
+ReLU,coordenadas do círculo,920,1,0.000781978445952836
+ReLU,coordenadas do círculo,920,3,0.0030596264666311462
+ReLU,coordenadas do círculo,920,9,0.05179493075419778
+ReLU,coordenadas do círculo,920,17,0.4596570120186361
+ReLU,coordenadas do círculo,940,1,0.0008248844246035842
+ReLU,coordenadas do círculo,940,3,0.0020269659604627093
+ReLU,coordenadas do círculo,940,9,0.05568486218092311
+ReLU,coordenadas do círculo,940,17,0.45261461466393876
+ReLU,coordenadas do círculo,960,1,0.006295615877483584
+ReLU,coordenadas do círculo,960,3,0.0054351799528277785
+ReLU,coordenadas do círculo,960,9,0.06120517105786538
+ReLU,coordenadas do círculo,960,17,0.4469141673063394
+ReLU,coordenadas do círculo,980,1,0.005100248180159455
+ReLU,coordenadas do círculo,980,3,0.001676542662331082
+ReLU,coordenadas do círculo,980,9,0.06750019879544462
+ReLU,coordenadas do círculo,980,17,0.4412827337186351
+ReLU,coordenadas do círculo,1000,1,0.013636838778453725
+ReLU,coordenadas do círculo,1000,3,0.00811060986559291
+ReLU,coordenadas do círculo,1000,9,0.07045531534295082
+ReLU,coordenadas do círculo,1000,17,0.4373383712122042
+ReLU,coordenadas do círculo,1020,1,0.016434489481880935
+ReLU,coordenadas do círculo,1020,3,0.000995856622176299
+ReLU,coordenadas do círculo,1020,9,0.07618437091277085
+ReLU,coordenadas do círculo,1020,17,0.4318616536615097
+ReLU,coordenadas do círculo,1040,1,0.005540830513904463
+ReLU,coordenadas do círculo,1040,3,0.0072151709728475065
+ReLU,coordenadas do círculo,1040,9,0.07737217149516795
+ReLU,coordenadas do círculo,1040,17,0.42854811807132454
+ReLU,coordenadas do círculo,1060,1,0.004559426732112003
+ReLU,coordenadas do círculo,1060,3,0.004689401163890827
+ReLU,coordenadas do círculo,1060,9,0.08093483692551955
+ReLU,coordenadas do círculo,1060,17,0.42375644830500325
+ReLU,coordenadas do círculo,1080,1,0.01820150514255864
+ReLU,coordenadas do círculo,1080,3,0.010734254443586385
+ReLU,coordenadas do círculo,1080,9,0.08043415310757808
+ReLU,coordenadas do círculo,1080,17,0.421469897043111
+ReLU,coordenadas do círculo,1100,1,0.012305525646318016
+ReLU,coordenadas do círculo,1100,3,0.009747144449028742
+ReLU,coordenadas do círculo,1100,9,0.082615394675445
+ReLU,coordenadas do círculo,1100,17,0.41799144820071854
+ReLU,coordenadas do círculo,1120,1,0.0024644649403388784
+ReLU,coordenadas do círculo,1120,3,0.007063231695610853
+ReLU,coordenadas do círculo,1120,9,0.08570012328302491
+ReLU,coordenadas do círculo,1120,17,0.414109441550175
+ReLU,coordenadas do círculo,1140,1,0.002959212385428046
+ReLU,coordenadas do círculo,1140,3,0.006261486982375127
+ReLU,coordenadas do círculo,1140,9,0.08828607375239304
+ReLU,coordenadas do círculo,1140,17,0.41037234584188603
+ReLU,coordenadas do círculo,1160,1,0.013631017293951555
+ReLU,coordenadas do círculo,1160,3,0.011175558167924428
+ReLU,coordenadas do círculo,1160,9,0.08844723124543223
+ReLU,coordenadas do círculo,1160,17,0.4074973169217743
+ReLU,coordenadas do círculo,1180,1,0.004993074975182714
+ReLU,coordenadas do círculo,1180,3,0.005461357147503675
+ReLU,coordenadas do círculo,1180,9,0.0931679328907154
+ReLU,coordenadas do círculo,1180,17,0.4039149736056817
+ReLU,coordenadas do círculo,1200,1,0.006365556527026415
+ReLU,coordenadas do círculo,1200,3,0.00590664471956801
+ReLU,coordenadas do círculo,1200,9,0.09448275081266987
+ReLU,coordenadas do círculo,1200,17,0.4011083980686456
+ReLU,coordenadas do círculo,1220,1,0.0020445582742616144
+ReLU,coordenadas do círculo,1220,3,0.008434690657708396
+ReLU,coordenadas do círculo,1220,9,0.09501573713948991
+ReLU,coordenadas do círculo,1220,17,0.39826719703944585
+ReLU,coordenadas do círculo,1240,1,0.014652530174203869
+ReLU,coordenadas do círculo,1240,3,0.011024703407247649
+ReLU,coordenadas do círculo,1240,9,0.09461712350331404
+ReLU,coordenadas do círculo,1240,17,0.3965157333311188
+ReLU,coordenadas do círculo,1260,1,0.004654188523414852
+ReLU,coordenadas do círculo,1260,3,0.010214299810056372
+ReLU,coordenadas do círculo,1260,9,0.09556949263924393
+ReLU,coordenadas do círculo,1260,17,0.392372643387754
+ReLU,coordenadas do círculo,1280,1,0.0007892309163532893
+ReLU,coordenadas do círculo,1280,3,0.007768125931027119
+ReLU,coordenadas do círculo,1280,9,0.09700183704285424
+ReLU,coordenadas do círculo,1280,17,0.3904381717087075
+ReLU,coordenadas do círculo,1300,1,0.001290896543828419
+ReLU,coordenadas do círculo,1300,3,0.0061649973445954765
+ReLU,coordenadas do círculo,1300,9,0.09105044209322125
+ReLU,coordenadas do círculo,1300,17,0.3896476791252462
+ReLU,coordenadas do círculo,1320,1,0.008542125473669629
+ReLU,coordenadas do círculo,1320,3,0.00814288485339241
+ReLU,coordenadas do círculo,1320,9,0.09529138615478173
+ReLU,coordenadas do círculo,1320,17,0.3858564765706371
+ReLU,coordenadas do círculo,1340,1,0.004834457634295624
+ReLU,coordenadas do círculo,1340,3,0.006698092833459494
+ReLU,coordenadas do círculo,1340,9,0.09653436866734663
+ReLU,coordenadas do círculo,1340,17,0.38242467672205194
+ReLU,coordenadas do círculo,1360,1,0.002644419787307611
+ReLU,coordenadas do círculo,1360,3,0.006941466442982215
+ReLU,coordenadas do círculo,1360,9,0.0978226062319122
+ReLU,coordenadas do círculo,1360,17,0.379814433971958
+ReLU,coordenadas do círculo,1380,1,0.002878011024877109
+ReLU,coordenadas do círculo,1380,3,0.008790804449939257
+ReLU,coordenadas do círculo,1380,9,0.0991959296282754
+ReLU,coordenadas do círculo,1380,17,0.37727033133137605
+ReLU,coordenadas do círculo,1400,1,0.013731179862469434
+ReLU,coordenadas do círculo,1400,3,0.004629272399853867
+ReLU,coordenadas do círculo,1400,9,0.10065340254096397
+ReLU,coordenadas do círculo,1400,17,0.3747087261537992
+ReLU,coordenadas do círculo,1420,1,0.016213698371593515
+ReLU,coordenadas do círculo,1420,3,0.011356079777828307
+ReLU,coordenadas do círculo,1420,9,0.09882734326169887
+ReLU,coordenadas do círculo,1420,17,0.37445399625187775
+ReLU,coordenadas do círculo,1440,1,0.007242675770686585
+ReLU,coordenadas do círculo,1440,3,0.007345076351588444
+ReLU,coordenadas do círculo,1440,9,0.10198296567418284
+ReLU,coordenadas do círculo,1440,17,0.3705689270361548
+ReLU,coordenadas do círculo,1460,1,0.009501262900217994
+ReLU,coordenadas do círculo,1460,3,0.010455708164144803
+ReLU,coordenadas do círculo,1460,9,0.10100219236413298
+ReLU,coordenadas do círculo,1460,17,0.3685045042487103
+ReLU,coordenadas do círculo,1480,1,0.008490245809335398
+ReLU,coordenadas do círculo,1480,3,0.006378485033583308
+ReLU,coordenadas do círculo,1480,9,0.10269137576953459
+ReLU,coordenadas do círculo,1480,17,0.36529697443540987
+ReLU,coordenadas do círculo,1500,1,0.0066283099500772285
+ReLU,coordenadas do círculo,1500,3,0.009814875765138524
+ReLU,coordenadas do círculo,1500,9,0.1015501095890692
+ReLU,coordenadas do círculo,1500,17,0.3652468903777946
+ReLU,coordenadas do círculo,1520,1,0.0069451598079129226
+ReLU,coordenadas do círculo,1520,3,0.007977626485593206
+ReLU,coordenadas do círculo,1520,9,0.104514915332108
+ReLU,coordenadas do círculo,1520,17,0.36169765718769015
+ReLU,coordenadas do círculo,1540,1,0.00392368961382311
+ReLU,coordenadas do círculo,1540,3,0.008655190275475788
+ReLU,coordenadas do círculo,1540,9,0.10355853039496293
+ReLU,coordenadas do círculo,1540,17,0.36082848371360504
+ReLU,coordenadas do círculo,1560,1,0.005148440710502836
+ReLU,coordenadas do círculo,1560,3,0.010192972716331518
+ReLU,coordenadas do círculo,1560,9,0.10247908058768151
+ReLU,coordenadas do círculo,1560,17,0.36020204833522873
+ReLU,coordenadas do círculo,1580,1,0.017678704112091437
+ReLU,coordenadas do círculo,1580,3,0.01368820456353183
+ReLU,coordenadas do círculo,1580,9,0.10052115640062359
+ReLU,coordenadas do círculo,1580,17,0.3597519265924731
+ReLU,coordenadas do círculo,1600,1,0.00994524202043154
+ReLU,coordenadas do círculo,1600,3,0.01169861066220165
+ReLU,coordenadas do círculo,1600,9,0.10175194521666805
+ReLU,coordenadas do círculo,1600,17,0.3572094330161795
+ReLU,coordenadas do círculo,1620,1,0.0017669732631740136
+ReLU,coordenadas do círculo,1620,3,0.009069084870580123
+ReLU,coordenadas do círculo,1620,9,0.10261495172874308
+ReLU,coordenadas do círculo,1620,17,0.35555930919482903
+ReLU,coordenadas do círculo,1640,1,0.0006676889048969501
+ReLU,coordenadas do círculo,1640,3,0.009818942957993243
+ReLU,coordenadas do círculo,1640,9,0.10161092819924457
+ReLU,coordenadas do círculo,1640,17,0.3530995662495212
+ReLU,coordenadas do círculo,1660,1,0.00019430177085774964
+ReLU,coordenadas do círculo,1660,3,0.008916323764264489
+ReLU,coordenadas do círculo,1660,9,0.10232538756612057
+ReLU,coordenadas do círculo,1660,17,0.35134686767792545
+ReLU,coordenadas do círculo,1680,1,0.000852897088348589
+ReLU,coordenadas do círculo,1680,3,0.009106455870277443
+ReLU,coordenadas do círculo,1680,9,0.10260409983916098
+ReLU,coordenadas do círculo,1680,17,0.34991876446765074
+ReLU,coordenadas do círculo,1700,1,0.0008702227603307748
+ReLU,coordenadas do círculo,1700,3,0.009324705528153916
+ReLU,coordenadas do círculo,1700,9,0.10246943969876954
+ReLU,coordenadas do círculo,1700,17,0.3484689590513084
+ReLU,coordenadas do círculo,1720,1,0.006196862701400166
+ReLU,coordenadas do círculo,1720,3,0.010043932112033664
+ReLU,coordenadas do círculo,1720,9,0.10152418337998759
+ReLU,coordenadas do círculo,1720,17,0.34775020691974157
+ReLU,coordenadas do círculo,1740,1,0.0016246782068631486
+ReLU,coordenadas do círculo,1740,3,0.008982991085206334
+ReLU,coordenadas do círculo,1740,9,0.10355473736922313
+ReLU,coordenadas do círculo,1740,17,0.3442373215496288
+ReLU,coordenadas do círculo,1760,1,0.0005192031030223893
+ReLU,coordenadas do círculo,1760,3,0.008072697257328539
+ReLU,coordenadas do círculo,1760,9,0.10003577675989847
+ReLU,coordenadas do círculo,1760,17,0.3429056792660856
+ReLU,coordenadas do círculo,1780,1,0.0009338097797040635
+ReLU,coordenadas do círculo,1780,3,0.0083938468994942
+ReLU,coordenadas do círculo,1780,9,0.10024297590409557
+ReLU,coordenadas do círculo,1780,17,0.34115805526693077
+ReLU,coordenadas do círculo,1800,1,0.01543713769741511
+ReLU,coordenadas do círculo,1800,3,0.012154158063465632
+ReLU,coordenadas do círculo,1800,9,0.09780140444030476
+ReLU,coordenadas do círculo,1800,17,0.34144437544155065
+ReLU,coordenadas do círculo,1820,1,0.00686962802186593
+ReLU,coordenadas do círculo,1820,3,0.0029489885930025907
+ReLU,coordenadas do círculo,1820,9,0.09988348049783566
+ReLU,coordenadas do círculo,1820,17,0.3352334068717093
+ReLU,coordenadas do círculo,1840,1,0.0038923978917027855
+ReLU,coordenadas do círculo,1840,3,0.008447252496204786
+ReLU,coordenadas do círculo,1840,9,0.09905280787673165
+ReLU,coordenadas do círculo,1840,17,0.33276940221643486
+ReLU,coordenadas do círculo,1860,1,0.0009780894945279498
+ReLU,coordenadas do círculo,1860,3,0.008529493973440588
+ReLU,coordenadas do círculo,1860,9,0.10039946513870461
+ReLU,coordenadas do círculo,1860,17,0.33089910593692623
+ReLU,coordenadas do círculo,1880,1,0.0017031731466716719
+ReLU,coordenadas do círculo,1880,3,0.008918457293322697
+ReLU,coordenadas do círculo,1880,9,0.1003111164237489
+ReLU,coordenadas do círculo,1880,17,0.32944780100206345
+ReLU,coordenadas do círculo,1900,1,0.0006308670482877753
+ReLU,coordenadas do círculo,1900,3,0.009025482177532457
+ReLU,coordenadas do círculo,1900,9,0.100086670244392
+ReLU,coordenadas do círculo,1900,17,0.3278934756510135
+ReLU,coordenadas do círculo,1920,1,0.006725077843785768
+ReLU,coordenadas do círculo,1920,3,0.009962471937298566
+ReLU,coordenadas do círculo,1920,9,0.09929385671846469
+ReLU,coordenadas do círculo,1920,17,0.3272490202849024
+ReLU,coordenadas do círculo,1940,1,0.0033552453901566446
+ReLU,coordenadas do círculo,1940,3,0.007769151630200669
+ReLU,coordenadas do círculo,1940,9,0.10175045216442828
+ReLU,coordenadas do círculo,1940,17,0.32447670066520107
+ReLU,coordenadas do círculo,1960,1,0.0036452234339042697
+ReLU,coordenadas do círculo,1960,3,0.009247834744722398
+ReLU,coordenadas do círculo,1960,9,0.09973885845474925
+ReLU,coordenadas do círculo,1960,17,0.32437194272988584
+ReLU,coordenadas do círculo,1980,1,0.0008327722773213368
+ReLU,coordenadas do círculo,1980,3,0.00851870750263296
+ReLU,coordenadas do círculo,1980,9,0.10022193818514544
+ReLU,coordenadas do círculo,1980,17,0.3226466620979574
+ReLU,coordenadas do círculo,2000,1,0.011219485325905507
+ReLU,coordenadas do círculo,2000,3,0.011391494585968637
+ReLU,coordenadas do círculo,2000,9,0.09597744331596533
+ReLU,coordenadas do círculo,2000,17,0.3240561943302277
+ReLU,coordenadas do círculo,2020,1,0.0033458536707144573
+ReLU,coordenadas do círculo,2020,3,0.007550660167971524
+ReLU,coordenadas do círculo,2020,9,0.10136729257315773
+ReLU,coordenadas do círculo,2020,17,0.3194652435226455
+ReLU,coordenadas do círculo,2040,1,0.0031579633266062244
+ReLU,coordenadas do círculo,2040,3,0.007558875004436927
+ReLU,coordenadas do círculo,2040,9,0.10081010155646222
+ReLU,coordenadas do círculo,2040,17,0.31881094166994506
+ReLU,coordenadas do círculo,2060,1,0.0019368473892468064
+ReLU,coordenadas do círculo,2060,3,0.007861350106213947
+ReLU,coordenadas do círculo,2060,9,0.10003057636559964
+ReLU,coordenadas do círculo,2060,17,0.31794650444559497
+ReLU,coordenadas do círculo,2080,1,0.001464762227546881
+ReLU,coordenadas do círculo,2080,3,0.00809048123954818
+ReLU,coordenadas do círculo,2080,9,0.10001054101445087
+ReLU,coordenadas do círculo,2080,17,0.3166926923216473
+ReLU,coordenadas do círculo,2100,1,0.007252455756115438
+ReLU,coordenadas do círculo,2100,3,0.006961438394251937
+ReLU,coordenadas do círculo,2100,9,0.10087008329852111
+ReLU,coordenadas do círculo,2100,17,0.3145196570219516
+ReLU,coordenadas do círculo,2120,1,0.0058873760180540085
+ReLU,coordenadas do círculo,2120,3,0.010101877378040022
+ReLU,coordenadas do círculo,2120,9,0.09826280744612462
+ReLU,coordenadas do círculo,2120,17,0.31518684594275975
+ReLU,coordenadas do círculo,2140,1,0.00029320614429859587
+ReLU,coordenadas do círculo,2140,3,0.008376607583018537
+ReLU,coordenadas do círculo,2140,9,0.09908416925955749
+ReLU,coordenadas do círculo,2140,17,0.3134367054978013
+ReLU,coordenadas do círculo,2160,1,0.01587994514413178
+ReLU,coordenadas do círculo,2160,3,0.004512117715926028
+ReLU,coordenadas do círculo,2160,9,0.10192463466988085
+ReLU,coordenadas do círculo,2160,17,0.30976111066904927
+ReLU,coordenadas do círculo,2180,1,0.0049833130386397455
+ReLU,coordenadas do círculo,2180,3,0.007418915089869899
+ReLU,coordenadas do círculo,2180,9,0.10055013131695839
+ReLU,coordenadas do círculo,2180,17,0.31021486981519386
+ReLU,coordenadas do círculo,2200,1,0.002168346279797538
+ReLU,coordenadas do círculo,2200,3,0.008503928541279132
+ReLU,coordenadas do círculo,2200,9,0.09896124292894429
+ReLU,coordenadas do círculo,2200,17,0.30987005529948514
+ReLU,Fourier explícito,0,1,0.9567486971842095
+ReLU,Fourier explícito,0,3,0.937602141710436
+ReLU,Fourier explícito,0,9,0.997920557900453
+ReLU,Fourier explícito,0,17,1.007626527965335
+ReLU,Fourier explícito,20,1,0.1982683738173009
+ReLU,Fourier explícito,20,3,0.33661210980955425
+ReLU,Fourier explícito,20,9,0.3042701614698291
+ReLU,Fourier explícito,20,17,0.5096224572201806
+ReLU,Fourier explícito,40,1,0.05632828542497363
+ReLU,Fourier explícito,40,3,0.005242298344339484
+ReLU,Fourier explícito,40,9,0.002455270785951186
+ReLU,Fourier explícito,40,17,0.12861488402126872
+ReLU,Fourier explícito,60,1,0.04131639300081934
+ReLU,Fourier explícito,60,3,0.014035549298385549
+ReLU,Fourier explícito,60,9,0.021696460262568572
+ReLU,Fourier explícito,60,17,0.036488234334168944
+ReLU,Fourier explícito,80,1,0.000933082221110315
+ReLU,Fourier explícito,80,3,0.0005500613886387037
+ReLU,Fourier explícito,80,9,0.016981669876426037
+ReLU,Fourier explícito,80,17,0.0067596396241628035
+ReLU,Fourier explícito,100,1,0.0029363977691671734
+ReLU,Fourier explícito,100,3,0.005578692949688315
+ReLU,Fourier explícito,100,9,0.002210169654034697
+ReLU,Fourier explícito,100,17,0.00542210726158586
+ReLU,Fourier explícito,120,1,0.0014534209040527903
+ReLU,Fourier explícito,120,3,0.00015556405330556793
+ReLU,Fourier explícito,120,9,0.0017381904547479443
+ReLU,Fourier explícito,120,17,0.0006462422746741265
+ReLU,Fourier explícito,140,1,0.00016908697871888273
+ReLU,Fourier explícito,140,3,0.0008098647265053378
+ReLU,Fourier explícito,140,9,0.000748066530426025
+ReLU,Fourier explícito,140,17,0.000667437490365068
+ReLU,Fourier explícito,160,1,0.0002757997050290505
+ReLU,Fourier explícito,160,3,0.0004345947194531092
+ReLU,Fourier explícito,160,9,0.0002843482277584081
+ReLU,Fourier explícito,160,17,0.0005777764985424781
+ReLU,Fourier explícito,180,1,0.0002015337435741494
+ReLU,Fourier explícito,180,3,0.00021562625938553628
+ReLU,Fourier explícito,180,9,0.0003714752009606144
+ReLU,Fourier explícito,180,17,0.00037209188987644425
+ReLU,Fourier explícito,200,1,6.522061956899424e-05
+ReLU,Fourier explícito,200,3,0.00017712071871785006
+ReLU,Fourier explícito,200,9,0.0003305681403742246
+ReLU,Fourier explícito,200,17,0.0004440877687077023
+ReLU,Fourier explícito,220,1,6.368027301209407e-05
+ReLU,Fourier explícito,220,3,0.00011038787995414529
+ReLU,Fourier explícito,220,9,0.0003171306609359089
+ReLU,Fourier explícito,220,17,0.0004102456086681508
+ReLU,Fourier explícito,240,1,7.680120944575433e-05
+ReLU,Fourier explícito,240,3,2.7535340076446004e-05
+ReLU,Fourier explícito,240,9,0.0002763471490820132
+ReLU,Fourier explícito,240,17,0.0003566073682114221
+ReLU,Fourier explícito,260,1,4.940098770618216e-05
+ReLU,Fourier explícito,260,3,1.6628168587669748e-05
+ReLU,Fourier explícito,260,9,0.0002320113179285956
+ReLU,Fourier explícito,260,17,0.00033663355604381356
+ReLU,Fourier explícito,280,1,4.2967876349123264e-05
+ReLU,Fourier explícito,280,3,4.132688210325161e-06
+ReLU,Fourier explícito,280,9,0.0002028632405951496
+ReLU,Fourier explícito,280,17,0.00030326505901521247
+ReLU,Fourier explícito,300,1,5.051245070017226e-05
+ReLU,Fourier explícito,300,3,1.3925137271538296e-05
+ReLU,Fourier explícito,300,9,0.00017893632650199814
+ReLU,Fourier explícito,300,17,0.00029441494912730643
+ReLU,Fourier explícito,320,1,4.533042783574597e-05
+ReLU,Fourier explícito,320,3,3.2106665199870725e-05
+ReLU,Fourier explícito,320,9,0.00015884178712228018
+ReLU,Fourier explícito,320,17,0.00027737904531162334
+ReLU,Fourier explícito,340,1,4.909252906744322e-05
+ReLU,Fourier explícito,340,3,1.8965170172386567e-05
+ReLU,Fourier explícito,340,9,0.00013823983045555717
+ReLU,Fourier explícito,340,17,0.00025416840153008813
+ReLU,Fourier explícito,360,1,5.062721353410859e-05
+ReLU,Fourier explícito,360,3,3.835984103807014e-05
+ReLU,Fourier explícito,360,9,0.00011473723698168965
+ReLU,Fourier explícito,360,17,0.0002466558306520748
+ReLU,Fourier explícito,380,1,4.7162293141034416e-05
+ReLU,Fourier explícito,380,3,3.1636583115851666e-05
+ReLU,Fourier explícito,380,9,9.922160859684554e-05
+ReLU,Fourier explícito,380,17,0.0002308250334916991
+ReLU,Fourier explícito,400,1,4.4694937636508776e-05
+ReLU,Fourier explícito,400,3,3.518028707239909e-05
+ReLU,Fourier explícito,400,9,9.77110034369287e-05
+ReLU,Fourier explícito,400,17,0.0002040703226591334
+ReLU,Fourier explícito,420,1,2.840806768969127e-05
+ReLU,Fourier explícito,420,3,3.51854657299724e-05
+ReLU,Fourier explícito,420,9,9.953646344027696e-05
+ReLU,Fourier explícito,420,17,0.00018159845158559546
+ReLU,Fourier explícito,440,1,3.273862859588063e-05
+ReLU,Fourier explícito,440,3,4.2541350296856265e-05
+ReLU,Fourier explícito,440,9,9.497641921621607e-05
+ReLU,Fourier explícito,440,17,0.00016727139908205685
+ReLU,Fourier explícito,460,1,2.3971855310818303e-05
+ReLU,Fourier explícito,460,3,3.9555500229601654e-05
+ReLU,Fourier explícito,460,9,8.835867478745947e-05
+ReLU,Fourier explícito,460,17,0.00014816692345918567
+ReLU,Fourier explícito,480,1,2.5195588172409433e-05
+ReLU,Fourier explícito,480,3,4.3153415188035196e-05
+ReLU,Fourier explícito,480,9,8.622073134242279e-05
+ReLU,Fourier explícito,480,17,0.00013545917349665378
+ReLU,Fourier explícito,500,1,2.6850163657211656e-05
+ReLU,Fourier explícito,500,3,3.6732034229212326e-05
+ReLU,Fourier explícito,500,9,8.068447765709826e-05
+ReLU,Fourier explícito,500,17,0.00013421869528160103
+ReLU,Fourier explícito,520,1,3.485535691000043e-06
+ReLU,Fourier explícito,520,3,3.8615475789546835e-05
+ReLU,Fourier explícito,520,9,7.874255560124535e-05
+ReLU,Fourier explícito,520,17,0.00011491211917683287
+ReLU,Fourier explícito,540,1,1.3789396891433275e-05
+ReLU,Fourier explícito,540,3,3.1729542502359774e-05
+ReLU,Fourier explícito,540,9,7.906372396132859e-05
+ReLU,Fourier explícito,540,17,0.00010707737106151413
+ReLU,Fourier explícito,560,1,9.16037898727674e-06
+ReLU,Fourier explícito,560,3,1.6580061995740637e-05
+ReLU,Fourier explícito,560,9,7.208008756527253e-05
+ReLU,Fourier explícito,560,17,0.00010161326253427865
+ReLU,Fourier explícito,580,1,4.972259495284175e-06
+ReLU,Fourier explícito,580,3,1.552557667147999e-05
+ReLU,Fourier explícito,580,9,6.985892241785857e-05
+ReLU,Fourier explícito,580,17,0.00010131849733276344
+ReLU,Fourier explícito,600,1,5.8572989275770995e-06
+ReLU,Fourier explícito,600,3,2.005763989317731e-05
+ReLU,Fourier explícito,600,9,6.09527882819664e-05
+ReLU,Fourier explícito,600,17,9.63144919542065e-05
+ReLU,Fourier explícito,620,1,9.360110283092288e-06
+ReLU,Fourier explícito,620,3,1.6645825617046532e-05
+ReLU,Fourier explícito,620,9,5.659243645349401e-05
+ReLU,Fourier explícito,620,17,0.00010142468093503817
+ReLU,Fourier explícito,640,1,9.233903933913235e-06
+ReLU,Fourier explícito,640,3,1.0662409638333698e-05
+ReLU,Fourier explícito,640,9,5.593952579927442e-05
+ReLU,Fourier explícito,640,17,9.950308604875379e-05
+ReLU,Fourier explícito,660,1,1.271482493429592e-05
+ReLU,Fourier explícito,660,3,7.334508730838001e-06
+ReLU,Fourier explícito,660,9,4.4333940252444545e-05
+ReLU,Fourier explícito,660,17,9.062381550361851e-05
+ReLU,Fourier explícito,680,1,9.25146483735437e-06
+ReLU,Fourier explícito,680,3,2.9483270721319696e-06
+ReLU,Fourier explícito,680,9,4.368208913550953e-05
+ReLU,Fourier explícito,680,17,8.891550520393706e-05
+ReLU,Fourier explícito,700,1,2.6992902852564735e-06
+ReLU,Fourier explícito,700,3,6.290984356276497e-06
+ReLU,Fourier explícito,700,9,3.812211740950138e-05
+ReLU,Fourier explícito,700,17,8.176660889403074e-05
+ReLU,Fourier explícito,720,1,4.073488873947619e-06
+ReLU,Fourier explícito,720,3,1.1745803268306172e-06
+ReLU,Fourier explícito,720,9,3.546616055479594e-05
+ReLU,Fourier explícito,720,17,7.910080370882247e-05
+ReLU,Fourier explícito,740,1,1.5053038037785191e-06
+ReLU,Fourier explícito,740,3,3.784424365941382e-06
+ReLU,Fourier explícito,740,9,3.5211695813929693e-05
+ReLU,Fourier explícito,740,17,8.245093959902993e-05
+ReLU,Fourier explícito,760,1,9.356550929003752e-07
+ReLU,Fourier explícito,760,3,2.491088880750817e-06
+ReLU,Fourier explícito,760,9,2.8908674581475893e-05
+ReLU,Fourier explícito,760,17,7.761301012253309e-05
+ReLU,Fourier explícito,780,1,1.3781722548940803e-06
+ReLU,Fourier explícito,780,3,7.118013323281931e-06
+ReLU,Fourier explícito,780,9,2.508163413018279e-05
+ReLU,Fourier explícito,780,17,7.725647911893335e-05
+ReLU,Fourier explícito,800,1,7.855046785434324e-06
+ReLU,Fourier explícito,800,3,1.2395178551527376e-06
+ReLU,Fourier explícito,800,9,2.236266499582617e-05
+ReLU,Fourier explícito,800,17,8.141934237409698e-05
+ReLU,Fourier explícito,820,1,5.965072295922475e-06
+ReLU,Fourier explícito,820,3,9.147962157992538e-06
+ReLU,Fourier explícito,820,9,2.3519910654718286e-05
+ReLU,Fourier explícito,820,17,8.000753709215093e-05
+ReLU,Fourier explícito,840,1,5.563506424721668e-06
+ReLU,Fourier explícito,840,3,5.206804584380389e-06
+ReLU,Fourier explícito,840,9,2.2504477939727803e-05
+ReLU,Fourier explícito,840,17,6.892117134281034e-05
+ReLU,Fourier explícito,860,1,5.399779707226879e-06
+ReLU,Fourier explícito,860,3,6.7639827726437075e-06
+ReLU,Fourier explícito,860,9,2.42573211435232e-05
+ReLU,Fourier explícito,860,17,6.588576877370708e-05
+ReLU,Fourier explícito,880,1,5.8763743317987406e-06
+ReLU,Fourier explícito,880,3,6.651151467880134e-06
+ReLU,Fourier explícito,880,9,2.090709765915474e-05
+ReLU,Fourier explícito,880,17,6.227934060509382e-05
+ReLU,Fourier explícito,900,1,2.346323002208609e-06
+ReLU,Fourier explícito,900,3,1.5928903877912432e-05
+ReLU,Fourier explícito,900,9,1.4201236612318426e-05
+ReLU,Fourier explícito,900,17,5.9379695181772596e-05
+ReLU,Fourier explícito,920,1,3.362906187800047e-06
+ReLU,Fourier explícito,920,3,1.527661927271781e-05
+ReLU,Fourier explícito,920,9,1.6445678835622923e-05
+ReLU,Fourier explícito,920,17,5.930404100409651e-05
+ReLU,Fourier explícito,940,1,2.85376660909167e-06
+ReLU,Fourier explícito,940,3,4.302320426633918e-06
+ReLU,Fourier explícito,940,9,1.5996709584083637e-05
+ReLU,Fourier explícito,940,17,6.051133717026143e-05
+ReLU,Fourier explícito,960,1,8.80337385202954e-06
+ReLU,Fourier explícito,960,3,3.2410131249748855e-06
+ReLU,Fourier explícito,960,9,1.5807609339183355e-05
+ReLU,Fourier explícito,960,17,5.721830131012886e-05
+ReLU,Fourier explícito,980,1,7.516039006781667e-06
+ReLU,Fourier explícito,980,3,5.141193141897261e-06
+ReLU,Fourier explícito,980,9,1.3878554823029853e-05
+ReLU,Fourier explícito,980,17,5.4342528674708655e-05
+ReLU,Fourier explícito,1000,1,6.577377841249773e-06
+ReLU,Fourier explícito,1000,3,1.1204922849905912e-05
+ReLU,Fourier explícito,1000,9,9.198671005535683e-06
+ReLU,Fourier explícito,1000,17,5.446684595353821e-05
+ReLU,Fourier explícito,1020,1,1.0807621349304765e-05
+ReLU,Fourier explícito,1020,3,6.485247083694033e-06
+ReLU,Fourier explícito,1020,9,1.3642950321311079e-05
+ReLU,Fourier explícito,1020,17,5.372974556866684e-05
+ReLU,Fourier explícito,1040,1,4.772812478679388e-06
+ReLU,Fourier explícito,1040,3,1.3900350748800602e-05
+ReLU,Fourier explícito,1040,9,1.2784940205444803e-05
+ReLU,Fourier explícito,1040,17,5.2782590275413194e-05
+ReLU,Fourier explícito,1060,1,4.917114094521618e-06
+ReLU,Fourier explícito,1060,3,1.2544613946299605e-05
+ReLU,Fourier explícito,1060,9,1.2202150450412973e-05
+ReLU,Fourier explícito,1060,17,5.067178967111166e-05
+ReLU,Fourier explícito,1080,1,1.8897749805334596e-06
+ReLU,Fourier explícito,1080,3,1.213436148489995e-05
+ReLU,Fourier explícito,1080,9,1.112428589947254e-05
+ReLU,Fourier explícito,1080,17,4.897288792569199e-05
+ReLU,Fourier explícito,1100,1,2.4558837393137106e-06
+ReLU,Fourier explícito,1100,3,7.890016876505155e-06
+ReLU,Fourier explícito,1100,9,1.2630169628814278e-05
+ReLU,Fourier explícito,1100,17,4.5150767827478085e-05
+ReLU,Fourier explícito,1120,1,5.889431412515805e-07
+ReLU,Fourier explícito,1120,3,1.6302160559362078e-05
+ReLU,Fourier explícito,1120,9,7.260277371083414e-06
+ReLU,Fourier explícito,1120,17,4.6026475011468374e-05
+ReLU,Fourier explícito,1140,1,3.0506144324436546e-06
+ReLU,Fourier explícito,1140,3,1.3051868535504465e-05
+ReLU,Fourier explícito,1140,9,6.899477916648907e-06
+ReLU,Fourier explícito,1140,17,4.282741782700839e-05
+ReLU,Fourier explícito,1160,1,7.3189242126283634e-06
+ReLU,Fourier explícito,1160,3,1.1813527296972389e-05
+ReLU,Fourier explícito,1160,9,5.106509874478041e-06
+ReLU,Fourier explícito,1160,17,4.67737907032929e-05
+ReLU,Fourier explícito,1180,1,2.2049636339058574e-06
+ReLU,Fourier explícito,1180,3,1.9467689155585112e-05
+ReLU,Fourier explícito,1180,9,1.5267771196981026e-06
+ReLU,Fourier explícito,1180,17,4.625565481215252e-05
+ReLU,Fourier explícito,1200,1,7.990404837609213e-06
+ReLU,Fourier explícito,1200,3,8.834697982297608e-06
+ReLU,Fourier explícito,1200,9,2.5797381962819672e-06
+ReLU,Fourier explícito,1200,17,4.3952833990071713e-05
+ReLU,Fourier explícito,1220,1,6.449761438096129e-06
+ReLU,Fourier explícito,1220,3,1.3595356040012529e-05
+ReLU,Fourier explícito,1220,9,1.9424874360445956e-06
+ReLU,Fourier explícito,1220,17,4.088394858713626e-05
+ReLU,Fourier explícito,1240,1,4.29428806487231e-06
+ReLU,Fourier explícito,1240,3,1.835219084971244e-05
+ReLU,Fourier explícito,1240,9,2.7789743992613554e-06
+ReLU,Fourier explícito,1240,17,4.397596683589148e-05
+ReLU,Fourier explícito,1260,1,4.261775838105864e-06
+ReLU,Fourier explícito,1260,3,1.936157621555975e-05
+ReLU,Fourier explícito,1260,9,6.04558382974332e-07
+ReLU,Fourier explícito,1260,17,3.861768736554911e-05
+ReLU,Fourier explícito,1280,1,7.265786701572645e-06
+ReLU,Fourier explícito,1280,3,1.9286396794941225e-05
+ReLU,Fourier explícito,1280,9,3.9366794042307464e-07
+ReLU,Fourier explícito,1280,17,3.499521409452196e-05
+ReLU,Fourier explícito,1300,1,6.667977724051627e-06
+ReLU,Fourier explícito,1300,3,1.5140092905905422e-05
+ReLU,Fourier explícito,1300,9,2.2752502815356005e-06
+ReLU,Fourier explícito,1300,17,3.4346036812489214e-05
+ReLU,Fourier explícito,1320,1,6.9513828262269364e-06
+ReLU,Fourier explícito,1320,3,1.926793289912361e-05
+ReLU,Fourier explícito,1320,9,6.981054639332498e-06
+ReLU,Fourier explícito,1320,17,3.259554785064418e-05
+ReLU,Fourier explícito,1340,1,8.831141859653651e-06
+ReLU,Fourier explícito,1340,3,1.549560935189395e-05
+ReLU,Fourier explícito,1340,9,7.978266511474316e-07
+ReLU,Fourier explícito,1340,17,3.2608366495051724e-05
+ReLU,Fourier explícito,1360,1,9.422801239661264e-06
+ReLU,Fourier explícito,1360,3,1.2216804369197173e-05
+ReLU,Fourier explícito,1360,9,6.613886546014597e-06
+ReLU,Fourier explícito,1360,17,2.9517196306899768e-05
+ReLU,Fourier explícito,1380,1,5.653610779018139e-06
+ReLU,Fourier explícito,1380,3,1.5629331831428914e-05
+ReLU,Fourier explícito,1380,9,7.010169566374463e-08
+ReLU,Fourier explícito,1380,17,2.9758195286832443e-05
+ReLU,Fourier explícito,1400,1,8.071494737616845e-06
+ReLU,Fourier explícito,1400,3,1.0205174916314116e-05
+ReLU,Fourier explícito,1400,9,3.8152992232403456e-07
+ReLU,Fourier explícito,1400,17,3.110664036790986e-05
+ReLU,Fourier explícito,1420,1,4.28673167141974e-06
+ReLU,Fourier explícito,1420,3,1.437827576699498e-05
+ReLU,Fourier explícito,1420,9,1.068440633680198e-06
+ReLU,Fourier explícito,1420,17,2.9778502149224357e-05
+ReLU,Fourier explícito,1440,1,3.3960760802031406e-06
+ReLU,Fourier explícito,1440,3,1.3984608921599133e-05
+ReLU,Fourier explícito,1440,9,1.720534091778237e-06
+ReLU,Fourier explícito,1440,17,2.8708144322827232e-05
+ReLU,Fourier explícito,1460,1,6.326858195104963e-06
+ReLU,Fourier explícito,1460,3,1.0967477733396527e-05
+ReLU,Fourier explícito,1460,9,1.1282103210511008e-06
+ReLU,Fourier explícito,1460,17,2.830254074644448e-05
+ReLU,Fourier explícito,1480,1,4.990178947912975e-06
+ReLU,Fourier explícito,1480,3,8.501067850230514e-06
+ReLU,Fourier explícito,1480,9,3.313924907437798e-06
+ReLU,Fourier explícito,1480,17,2.9299483755167958e-05
+ReLU,Fourier explícito,1500,1,6.610215677689525e-06
+ReLU,Fourier explícito,1500,3,1.1760441004082355e-05
+ReLU,Fourier explícito,1500,9,1.0272654031790283e-06
+ReLU,Fourier explícito,1500,17,2.5138319849272585e-05
+ReLU,Fourier explícito,1520,1,4.878899993025122e-07
+ReLU,Fourier explícito,1520,3,5.171677305455772e-06
+ReLU,Fourier explícito,1520,9,3.832824343684251e-06
+ReLU,Fourier explícito,1520,17,2.611205786565196e-05
+ReLU,Fourier explícito,1540,1,5.942797765667756e-06
+ReLU,Fourier explícito,1540,3,1.1042387215959797e-05
+ReLU,Fourier explícito,1540,9,1.4454583915224922e-06
+ReLU,Fourier explícito,1540,17,2.2800563837518245e-05
+ReLU,Fourier explícito,1560,1,1.1596417736228374e-06
+ReLU,Fourier explícito,1560,3,9.234704288697705e-06
+ReLU,Fourier explícito,1560,9,7.878198924654997e-07
+ReLU,Fourier explícito,1560,17,2.4124919110005486e-05
+ReLU,Fourier explícito,1580,1,3.3778872679404174e-06
+ReLU,Fourier explícito,1580,3,4.650376906775377e-06
+ReLU,Fourier explícito,1580,9,4.564403329545344e-06
+ReLU,Fourier explícito,1580,17,2.2926633001580874e-05
+ReLU,Fourier explícito,1600,1,2.161555829199896e-07
+ReLU,Fourier explícito,1600,3,9.857408687839139e-06
+ReLU,Fourier explícito,1600,9,5.130279779501788e-06
+ReLU,Fourier explícito,1600,17,2.444346809546551e-05
+ReLU,Fourier explícito,1620,1,4.961961654443595e-06
+ReLU,Fourier explícito,1620,3,1.2988955416009623e-05
+ReLU,Fourier explícito,1620,9,3.7855406698678243e-06
+ReLU,Fourier explícito,1620,17,2.570289935612531e-05
+ReLU,Fourier explícito,1640,1,2.432077544236023e-07
+ReLU,Fourier explícito,1640,3,9.744044140320539e-06
+ReLU,Fourier explícito,1640,9,2.7221302639403043e-06
+ReLU,Fourier explícito,1640,17,2.5124377022595922e-05
+ReLU,Fourier explícito,1660,1,4.2122579966017195e-06
+ReLU,Fourier explícito,1660,3,9.00618799083493e-06
+ReLU,Fourier explícito,1660,9,2.9971367074609387e-06
+ReLU,Fourier explícito,1660,17,2.3433346020225596e-05
+ReLU,Fourier explícito,1680,1,2.9146324849185874e-06
+ReLU,Fourier explícito,1680,3,8.348661714955435e-06
+ReLU,Fourier explícito,1680,9,6.279986265261405e-07
+ReLU,Fourier explícito,1680,17,1.9746722216552716e-05
+ReLU,Fourier explícito,1700,1,6.630707442316916e-06
+ReLU,Fourier explícito,1700,3,1.2495891523648686e-05
+ReLU,Fourier explícito,1700,9,2.840073966621777e-06
+ReLU,Fourier explícito,1700,17,2.0847914825352867e-05
+ReLU,Fourier explícito,1720,1,1.8699823457818623e-06
+ReLU,Fourier explícito,1720,3,8.200841684193799e-06
+ReLU,Fourier explícito,1720,9,2.826868894963238e-06
+ReLU,Fourier explícito,1720,17,2.3493825258467483e-05
+ReLU,Fourier explícito,1740,1,2.3327781901527824e-07
+ReLU,Fourier explícito,1740,3,7.759143810714683e-06
+ReLU,Fourier explícito,1740,9,2.0918865375194125e-06
+ReLU,Fourier explícito,1740,17,2.3692017931601736e-05
+ReLU,Fourier explícito,1760,1,5.18046852662312e-06
+ReLU,Fourier explícito,1760,3,8.763882744610404e-06
+ReLU,Fourier explícito,1760,9,1.0926863819617538e-06
+ReLU,Fourier explícito,1760,17,2.2955323285557232e-05
+ReLU,Fourier explícito,1780,1,2.1718259469647673e-07
+ReLU,Fourier explícito,1780,3,1.2327058511264485e-05
+ReLU,Fourier explícito,1780,9,6.95453124945632e-07
+ReLU,Fourier explícito,1780,17,2.061268840303067e-05
+ReLU,Fourier explícito,1800,1,5.692022513500474e-06
+ReLU,Fourier explícito,1800,3,1.0106775297286065e-05
+ReLU,Fourier explícito,1800,9,3.8161791038172137e-07
+ReLU,Fourier explícito,1800,17,2.3124383919002737e-05
+ReLU,Fourier explícito,1820,1,1.5802150500090788e-06
+ReLU,Fourier explícito,1820,3,8.6435539473288e-06
+ReLU,Fourier explícito,1820,9,4.78353021737955e-06
+ReLU,Fourier explícito,1820,17,2.127121224297736e-05
+ReLU,Fourier explícito,1840,1,2.520638368672715e-06
+ReLU,Fourier explícito,1840,3,1.1111527708060146e-05
+ReLU,Fourier explícito,1840,9,3.9389067194613145e-06
+ReLU,Fourier explícito,1840,17,2.1564713072455662e-05
+ReLU,Fourier explícito,1860,1,1.0444408243828603e-06
+ReLU,Fourier explícito,1860,3,5.116950918962048e-06
+ReLU,Fourier explícito,1860,9,2.0152357036343e-06
+ReLU,Fourier explícito,1860,17,2.293192013225201e-05
+ReLU,Fourier explícito,1880,1,2.599989385347028e-06
+ReLU,Fourier explícito,1880,3,1.2039102619262786e-05
+ReLU,Fourier explícito,1880,9,1.9558203524405004e-06
+ReLU,Fourier explícito,1880,17,1.8881977007270857e-05
+ReLU,Fourier explícito,1900,1,5.943532303389037e-06
+ReLU,Fourier explícito,1900,3,1.3021890218413484e-05
+ReLU,Fourier explícito,1900,9,3.074559808267344e-06
+ReLU,Fourier explícito,1900,17,2.1951880272925133e-05
+ReLU,Fourier explícito,1920,1,2.34313847251086e-06
+ReLU,Fourier explícito,1920,3,9.74155654131869e-06
+ReLU,Fourier explícito,1920,9,1.493102730296218e-06
+ReLU,Fourier explícito,1920,17,1.905514126035682e-05
+ReLU,Fourier explícito,1940,1,4.797851123596265e-06
+ReLU,Fourier explícito,1940,3,1.0671541320020679e-05
+ReLU,Fourier explícito,1940,9,1.4771273469373503e-06
+ReLU,Fourier explícito,1940,17,1.7793507237891047e-05
+ReLU,Fourier explícito,1960,1,5.0375150529111335e-06
+ReLU,Fourier explícito,1960,3,8.565336047968078e-06
+ReLU,Fourier explícito,1960,9,3.841447549499452e-06
+ReLU,Fourier explícito,1960,17,1.9420065367278322e-05
+ReLU,Fourier explícito,1980,1,7.038813936555231e-06
+ReLU,Fourier explícito,1980,3,7.240060466844728e-06
+ReLU,Fourier explícito,1980,9,4.612149360030807e-06
+ReLU,Fourier explícito,1980,17,1.4885816231486823e-05
+ReLU,Fourier explícito,2000,1,2.3426066444979484e-06
+ReLU,Fourier explícito,2000,3,5.363458670952048e-06
+ReLU,Fourier explícito,2000,9,2.2119016128199197e-06
+ReLU,Fourier explícito,2000,17,2.2555771000036384e-05
+ReLU,Fourier explícito,2020,1,1.1011281623393127e-06
+ReLU,Fourier explícito,2020,3,6.570446456683152e-06
+ReLU,Fourier explícito,2020,9,5.192929675045815e-07
+ReLU,Fourier explícito,2020,17,2.1370293466365663e-05
+ReLU,Fourier explícito,2040,1,2.264871332607933e-06
+ReLU,Fourier explícito,2040,3,9.577835610465076e-06
+ReLU,Fourier explícito,2040,9,3.6858878851456896e-07
+ReLU,Fourier explícito,2040,17,1.8184715909107462e-05
+ReLU,Fourier explícito,2060,1,1.7612934567959215e-06
+ReLU,Fourier explícito,2060,3,5.630639681676273e-06
+ReLU,Fourier explícito,2060,9,3.3782099755793875e-06
+ReLU,Fourier explícito,2060,17,2.3405310755120242e-05
+ReLU,Fourier explícito,2080,1,3.7277156974975797e-06
+ReLU,Fourier explícito,2080,3,6.5428828259585486e-06
+ReLU,Fourier explícito,2080,9,2.3066541196671231e-07
+ReLU,Fourier explícito,2080,17,2.1985570855279185e-05
+ReLU,Fourier explícito,2100,1,6.076783376045752e-07
+ReLU,Fourier explícito,2100,3,1.4404470055981109e-06
+ReLU,Fourier explícito,2100,9,3.830716795998838e-07
+ReLU,Fourier explícito,2100,17,1.8317198354711302e-05
+ReLU,Fourier explícito,2120,1,3.6851583814320125e-07
+ReLU,Fourier explícito,2120,3,7.242940444677035e-06
+ReLU,Fourier explícito,2120,9,6.298547263058024e-07
+ReLU,Fourier explícito,2120,17,1.5043326396950632e-05
+ReLU,Fourier explícito,2140,1,3.1318816316421077e-06
+ReLU,Fourier explícito,2140,3,5.107076623672843e-06
+ReLU,Fourier explícito,2140,9,4.100224954950705e-06
+ReLU,Fourier explícito,2140,17,1.754175632138373e-05
+ReLU,Fourier explícito,2160,1,1.1547431694374463e-06
+ReLU,Fourier explícito,2160,3,6.887953268784912e-06
+ReLU,Fourier explícito,2160,9,1.654164283289794e-06
+ReLU,Fourier explícito,2160,17,1.5913807131848626e-05
+ReLU,Fourier explícito,2180,1,1.7623635571093165e-06
+ReLU,Fourier explícito,2180,3,1.0228702613513704e-05
+ReLU,Fourier explícito,2180,9,1.7358241465456899e-06
+ReLU,Fourier explícito,2180,17,1.8080439426643185e-05
+ReLU,Fourier explícito,2200,1,1.5716131247513433e-06
+ReLU,Fourier explícito,2200,3,8.175684178311823e-06
+ReLU,Fourier explícito,2200,9,1.814884748525774e-06
+ReLU,Fourier explícito,2200,17,1.594261245376261e-05
+SiLU,coordenadas do círculo,0,1,0.971300125511195
+SiLU,coordenadas do círculo,0,3,0.9997525581704503
+SiLU,coordenadas do círculo,0,9,1.000000000133617
+SiLU,coordenadas do círculo,0,17,0.9999999989604781
+SiLU,coordenadas do círculo,20,1,0.10863510352502821
+SiLU,coordenadas do círculo,20,3,0.9965024292700294
+SiLU,coordenadas do círculo,20,9,1.0000000249167544
+SiLU,coordenadas do círculo,20,17,1.0000000011163879
+SiLU,coordenadas do círculo,40,1,0.08336602288251811
+SiLU,coordenadas do círculo,40,3,0.9907826704432144
+SiLU,coordenadas do círculo,40,9,0.9999999847545681
+SiLU,coordenadas do círculo,40,17,0.999999999858235
+SiLU,coordenadas do círculo,60,1,0.03819391437441081
+SiLU,coordenadas do círculo,60,3,0.9785218773831504
+SiLU,coordenadas do círculo,60,9,0.9999999951282764
+SiLU,coordenadas do círculo,60,17,0.9999999987098398
+SiLU,coordenadas do círculo,80,1,0.028350203779569375
+SiLU,coordenadas do círculo,80,3,0.9564164309544988
+SiLU,coordenadas do círculo,80,9,1.0000009399617968
+SiLU,coordenadas do círculo,80,17,0.9999999944638487
+SiLU,coordenadas do círculo,100,1,0.03236225788236864
+SiLU,coordenadas do círculo,100,3,0.8961035127408685
+SiLU,coordenadas do círculo,100,9,1.000015008993657
+SiLU,coordenadas do círculo,100,17,0.9999999962310876
+SiLU,coordenadas do círculo,120,1,0.029185086677600322
+SiLU,coordenadas do círculo,120,3,0.6875483166850563
+SiLU,coordenadas do círculo,120,9,1.0003353065358511
+SiLU,coordenadas do círculo,120,17,0.9999998662314878
+SiLU,coordenadas do círculo,140,1,0.013301601234340226
+SiLU,coordenadas do círculo,140,3,0.19551299810092798
+SiLU,coordenadas do círculo,140,9,1.003347894963229
+SiLU,coordenadas do círculo,140,17,0.9999959738658749
+SiLU,coordenadas do círculo,160,1,0.005578221898547227
+SiLU,coordenadas do círculo,160,3,0.05208272124457115
+SiLU,coordenadas do círculo,160,9,1.0036168957827238
+SiLU,coordenadas do círculo,160,17,1.000000508563319
+SiLU,coordenadas do círculo,180,1,0.001801675948596083
+SiLU,coordenadas do círculo,180,3,0.04055150034704168
+SiLU,coordenadas do círculo,180,9,1.000383035658832
+SiLU,coordenadas do círculo,180,17,0.9999820711388845
+SiLU,coordenadas do círculo,200,1,0.0017159484597371792
+SiLU,coordenadas do círculo,200,3,0.0019252197594712935
+SiLU,coordenadas do círculo,200,9,0.9990414323599004
+SiLU,coordenadas do círculo,200,17,0.9999602624405632
+SiLU,coordenadas do círculo,220,1,0.000664851211698986
+SiLU,coordenadas do círculo,220,3,0.007591545420899125
+SiLU,coordenadas do círculo,220,9,0.996429093153301
+SiLU,coordenadas do círculo,220,17,0.999932312361615
+SiLU,coordenadas do círculo,240,1,0.0005398523473331698
+SiLU,coordenadas do círculo,240,3,0.0006317363537729139
+SiLU,coordenadas do círculo,240,9,0.9927426886341183
+SiLU,coordenadas do círculo,240,17,0.9998719136714104
+SiLU,coordenadas do círculo,260,1,0.0008110643544209384
+SiLU,coordenadas do círculo,260,3,0.0019164031947438932
+SiLU,coordenadas do círculo,260,9,0.9873694735520382
+SiLU,coordenadas do círculo,260,17,0.999768313533289
+SiLU,coordenadas do círculo,280,1,0.001675321388272046
+SiLU,coordenadas do círculo,280,3,0.011874116528481499
+SiLU,coordenadas do círculo,280,9,0.9803674120009016
+SiLU,coordenadas do círculo,280,17,0.9996313331136364
+SiLU,coordenadas do círculo,300,1,0.001504339168028907
+SiLU,coordenadas do círculo,300,3,0.019282081360501267
+SiLU,coordenadas do círculo,300,9,0.9715923551497416
+SiLU,coordenadas do círculo,300,17,0.9994144465425386
+SiLU,coordenadas do círculo,320,1,0.0007658116964534612
+SiLU,coordenadas do círculo,320,3,0.023406569558356894
+SiLU,coordenadas do círculo,320,9,0.960957670753016
+SiLU,coordenadas do círculo,320,17,0.9990701342587666
+SiLU,coordenadas do círculo,340,1,8.330275560576095e-05
+SiLU,coordenadas do círculo,340,3,0.026183362128146655
+SiLU,coordenadas do círculo,340,9,0.9487512899224849
+SiLU,coordenadas do círculo,340,17,0.9985740048245263
+SiLU,coordenadas do círculo,360,1,0.00048508357533743533
+SiLU,coordenadas do círculo,360,3,0.02622072996406407
+SiLU,coordenadas do círculo,360,9,0.9346181819100853
+SiLU,coordenadas do círculo,360,17,0.9979446530332564
+SiLU,coordenadas do círculo,380,1,0.015299260259138454
+SiLU,coordenadas do círculo,380,3,0.021703680081928578
+SiLU,coordenadas do círculo,380,9,0.9199862955941617
+SiLU,coordenadas do círculo,380,17,0.9973739412605108
+SiLU,coordenadas do círculo,400,1,0.005035820561745969
+SiLU,coordenadas do círculo,400,3,0.022137689579633794
+SiLU,coordenadas do círculo,400,9,0.904894989086369
+SiLU,coordenadas do círculo,400,17,0.9962488698856503
+SiLU,coordenadas do círculo,420,1,0.00308285003885881
+SiLU,coordenadas do círculo,420,3,0.026722364890543276
+SiLU,coordenadas do círculo,420,9,0.8830003381066287
+SiLU,coordenadas do círculo,420,17,0.9942322591400193
+SiLU,coordenadas do círculo,440,1,0.0040986763024119886
+SiLU,coordenadas do círculo,440,3,0.030893735917152852
+SiLU,coordenadas do círculo,440,9,0.8522207360730781
+SiLU,coordenadas do círculo,440,17,0.9902253944317547
+SiLU,coordenadas do círculo,460,1,0.00975544662911497
+SiLU,coordenadas do círculo,460,3,0.030297255432738635
+SiLU,coordenadas do círculo,460,9,0.8160783050385176
+SiLU,coordenadas do círculo,460,17,0.9841190467856283
+SiLU,coordenadas do círculo,480,1,0.00599775183153572
+SiLU,coordenadas do círculo,480,3,0.03698048100998287
+SiLU,coordenadas do círculo,480,9,0.7774881086144527
+SiLU,coordenadas do círculo,480,17,0.9759878574303823
+SiLU,coordenadas do círculo,500,1,0.041060952319428065
+SiLU,coordenadas do círculo,500,3,0.04707424947615029
+SiLU,coordenadas do círculo,500,9,0.7376906308129864
+SiLU,coordenadas do círculo,500,17,0.964082481011771
+SiLU,coordenadas do círculo,520,1,0.0025201018187686313
+SiLU,coordenadas do círculo,520,3,0.03316864558241707
+SiLU,coordenadas do círculo,520,9,0.7077610821541155
+SiLU,coordenadas do círculo,520,17,0.9499904705393636
+SiLU,coordenadas do círculo,540,1,0.004312012592777391
+SiLU,coordenadas do círculo,540,3,0.030509544451558835
+SiLU,coordenadas do círculo,540,9,0.6792731645142236
+SiLU,coordenadas do círculo,540,17,0.9318271211007179
+SiLU,coordenadas do círculo,560,1,0.039888303501615936
+SiLU,coordenadas do círculo,560,3,0.01147061279606856
+SiLU,coordenadas do círculo,560,9,0.645918830672558
+SiLU,coordenadas do círculo,560,17,0.911509125714781
+SiLU,coordenadas do círculo,580,1,0.015625769509957973
+SiLU,coordenadas do círculo,580,3,0.009813827414235414
+SiLU,coordenadas do círculo,580,9,0.6163007033493242
+SiLU,coordenadas do círculo,580,17,0.892077658385932
+SiLU,coordenadas do círculo,600,1,0.009803380431755711
+SiLU,coordenadas do círculo,600,3,0.0004511310682783229
+SiLU,coordenadas do círculo,600,9,0.5712565716482473
+SiLU,coordenadas do círculo,600,17,0.8718976800579091
+SiLU,coordenadas do círculo,620,1,0.007979639372310462
+SiLU,coordenadas do círculo,620,3,0.010678933123458557
+SiLU,coordenadas do círculo,620,9,0.5122213306057096
+SiLU,coordenadas do círculo,620,17,0.8538291953371664
+SiLU,coordenadas do círculo,640,1,0.011650414672145755
+SiLU,coordenadas do círculo,640,3,0.017734689858251565
+SiLU,coordenadas do círculo,640,9,0.4519094480406674
+SiLU,coordenadas do círculo,640,17,0.8403714601532272
+SiLU,coordenadas do círculo,660,1,0.017819599694033333
+SiLU,coordenadas do círculo,660,3,0.023274917874277004
+SiLU,coordenadas do círculo,660,9,0.3906081960449461
+SiLU,coordenadas do círculo,660,17,0.8280572833528625
+SiLU,coordenadas do círculo,680,1,0.017425862245141824
+SiLU,coordenadas do círculo,680,3,0.022930303904260037
+SiLU,coordenadas do círculo,680,9,0.34759398916317963
+SiLU,coordenadas do círculo,680,17,0.8111498584841186
+SiLU,coordenadas do círculo,700,1,0.01536226769791522
+SiLU,coordenadas do círculo,700,3,0.019902873996545258
+SiLU,coordenadas do círculo,700,9,0.3117959749553729
+SiLU,coordenadas do círculo,700,17,0.7875336407111757
+SiLU,coordenadas do círculo,720,1,0.005962673552309016
+SiLU,coordenadas do círculo,720,3,0.005200248257734902
+SiLU,coordenadas do círculo,720,9,0.27418322597889144
+SiLU,coordenadas do círculo,720,17,0.7690082522607168
+SiLU,coordenadas do círculo,740,1,0.01717937910521626
+SiLU,coordenadas do círculo,740,3,0.01913187644047741
+SiLU,coordenadas do círculo,740,9,0.24600604163618703
+SiLU,coordenadas do círculo,740,17,0.7503143929006173
+SiLU,coordenadas do círculo,760,1,0.00032673658043803335
+SiLU,coordenadas do círculo,760,3,0.0018715689512188122
+SiLU,coordenadas do círculo,760,9,0.2248050183782147
+SiLU,coordenadas do círculo,760,17,0.735540683722388
+SiLU,coordenadas do círculo,780,1,0.0024264111146046654
+SiLU,coordenadas do círculo,780,3,0.004040589761190819
+SiLU,coordenadas do círculo,780,9,0.20756920217722458
+SiLU,coordenadas do círculo,780,17,0.7208634770631949
+SiLU,coordenadas do círculo,800,1,0.0025709397431510064
+SiLU,coordenadas do círculo,800,3,0.009335288281583707
+SiLU,coordenadas do círculo,800,9,0.19097984634780654
+SiLU,coordenadas do círculo,800,17,0.7059539628237712
+SiLU,coordenadas do círculo,820,1,0.0012987552895452714
+SiLU,coordenadas do círculo,820,3,0.009024591638901673
+SiLU,coordenadas do círculo,820,9,0.17576713554905954
+SiLU,coordenadas do círculo,820,17,0.6925054708551752
+SiLU,coordenadas do círculo,840,1,0.0029075320073913245
+SiLU,coordenadas do círculo,840,3,0.006910388657609323
+SiLU,coordenadas do círculo,840,9,0.1605679050609911
+SiLU,coordenadas do círculo,840,17,0.6796640305007664
+SiLU,coordenadas do círculo,860,1,0.0011376225592883453
+SiLU,coordenadas do círculo,860,3,0.0034405832088186318
+SiLU,coordenadas do círculo,860,9,0.14608415507841743
+SiLU,coordenadas do círculo,860,17,0.6668073930748906
+SiLU,coordenadas do círculo,880,1,0.01505107137053754
+SiLU,coordenadas do círculo,880,3,0.013819405490131808
+SiLU,coordenadas do círculo,880,9,0.13234388509254968
+SiLU,coordenadas do círculo,880,17,0.6554366341794576
+SiLU,coordenadas do círculo,900,1,0.0057307427764635216
+SiLU,coordenadas do círculo,900,3,0.006294572306667596
+SiLU,coordenadas do círculo,900,9,0.12275984044878827
+SiLU,coordenadas do círculo,900,17,0.6460035918655133
+SiLU,coordenadas do círculo,920,1,0.0025794501851655895
+SiLU,coordenadas do círculo,920,3,0.000270862838630968
+SiLU,coordenadas do círculo,920,9,0.11152624103367349
+SiLU,coordenadas do círculo,920,17,0.6369717653598336
+SiLU,coordenadas do círculo,940,1,0.002243154149363304
+SiLU,coordenadas do círculo,940,3,0.0003835906869795204
+SiLU,coordenadas do círculo,940,9,0.10068312674784366
+SiLU,coordenadas do círculo,940,17,0.6279998887409329
+SiLU,coordenadas do círculo,960,1,0.0014253675191066952
+SiLU,coordenadas do círculo,960,3,0.00010203707783503196
+SiLU,coordenadas do círculo,960,9,0.0900563244898924
+SiLU,coordenadas do círculo,960,17,0.6192435057825783
+SiLU,coordenadas do círculo,980,1,0.003082563001644145
+SiLU,coordenadas do círculo,980,3,0.02517602080039811
+SiLU,coordenadas do círculo,980,9,0.07655203835568218
+SiLU,coordenadas do círculo,980,17,0.6113005817673788
+SiLU,coordenadas do círculo,1000,1,0.0037631022990162345
+SiLU,coordenadas do círculo,1000,3,0.006325113307548217
+SiLU,coordenadas do círculo,1000,9,0.07164422328583404
+SiLU,coordenadas do círculo,1000,17,0.6042592115641551
+SiLU,coordenadas do círculo,1020,1,0.0006793451416211775
+SiLU,coordenadas do círculo,1020,3,0.0008946554920477331
+SiLU,coordenadas do círculo,1020,9,0.06554986696408127
+SiLU,coordenadas do círculo,1020,17,0.5966553193799752
+SiLU,coordenadas do círculo,1040,1,0.0006599665529297544
+SiLU,coordenadas do círculo,1040,3,0.0016720581516926638
+SiLU,coordenadas do círculo,1040,9,0.058124913014534395
+SiLU,coordenadas do círculo,1040,17,0.5886498907723868
+SiLU,coordenadas do círculo,1060,1,0.0006438076967730934
+SiLU,coordenadas do círculo,1060,3,0.0008470240526890923
+SiLU,coordenadas do círculo,1060,9,0.05178344556174646
+SiLU,coordenadas do círculo,1060,17,0.5797970179498427
+SiLU,coordenadas do círculo,1080,1,0.0019959323399471353
+SiLU,coordenadas do círculo,1080,3,0.004104978271803116
+SiLU,coordenadas do círculo,1080,9,0.04661978025691518
+SiLU,coordenadas do círculo,1080,17,0.5702409875637766
+SiLU,coordenadas do círculo,1100,1,0.00494484429783784
+SiLU,coordenadas do círculo,1100,3,0.005034683524171224
+SiLU,coordenadas do círculo,1100,9,0.04110934325755302
+SiLU,coordenadas do círculo,1100,17,0.5621345158804762
+SiLU,coordenadas do círculo,1120,1,0.0023294074009910628
+SiLU,coordenadas do círculo,1120,3,0.006171375643444425
+SiLU,coordenadas do círculo,1120,9,0.03738091943490446
+SiLU,coordenadas do círculo,1120,17,0.5534499776945452
+SiLU,coordenadas do círculo,1140,1,0.0005664740059581564
+SiLU,coordenadas do círculo,1140,3,0.0022177055336294374
+SiLU,coordenadas do círculo,1140,9,0.03442150224026319
+SiLU,coordenadas do círculo,1140,17,0.5445601085757898
+SiLU,coordenadas do círculo,1160,1,0.0005861229601211071
+SiLU,coordenadas do círculo,1160,3,0.003796560393917401
+SiLU,coordenadas do círculo,1160,9,0.03116268637793932
+SiLU,coordenadas do círculo,1160,17,0.535360724073732
+SiLU,coordenadas do círculo,1180,1,0.0005129320954004138
+SiLU,coordenadas do círculo,1180,3,0.0012390328565515985
+SiLU,coordenadas do círculo,1180,9,0.028869347428018746
+SiLU,coordenadas do círculo,1180,17,0.5257161847585856
+SiLU,coordenadas do círculo,1200,1,0.0026517554379332014
+SiLU,coordenadas do círculo,1200,3,0.0096738902676055
+SiLU,coordenadas do círculo,1200,9,0.025220236358073172
+SiLU,coordenadas do círculo,1200,17,0.5169166421809458
+SiLU,coordenadas do círculo,1220,1,0.0016909363213481697
+SiLU,coordenadas do círculo,1220,3,0.006012443533315332
+SiLU,coordenadas do círculo,1220,9,0.025148166384314975
+SiLU,coordenadas do círculo,1220,17,0.5076668246582675
+SiLU,coordenadas do círculo,1240,1,0.0001924964108831525
+SiLU,coordenadas do círculo,1240,3,0.005744869029999222
+SiLU,coordenadas do círculo,1240,9,0.024661363335622816
+SiLU,coordenadas do círculo,1240,17,0.49813234789126054
+SiLU,coordenadas do círculo,1260,1,0.00028891160253049006
+SiLU,coordenadas do círculo,1260,3,0.003549361004564564
+SiLU,coordenadas do círculo,1260,9,0.024523143721308857
+SiLU,coordenadas do círculo,1260,17,0.48812339483359835
+SiLU,coordenadas do círculo,1280,1,0.0015399286645082627
+SiLU,coordenadas do círculo,1280,3,0.0004373545594203675
+SiLU,coordenadas do círculo,1280,9,0.025205487569530765
+SiLU,coordenadas do círculo,1280,17,0.4777188020313472
+SiLU,coordenadas do círculo,1300,1,0.0005632965367240285
+SiLU,coordenadas do círculo,1300,3,0.00549085211352958
+SiLU,coordenadas do círculo,1300,9,0.025478189588815606
+SiLU,coordenadas do círculo,1300,17,0.46823679682490654
+SiLU,coordenadas do círculo,1320,1,0.0006085245652026449
+SiLU,coordenadas do círculo,1320,3,0.00040946768095927925
+SiLU,coordenadas do círculo,1320,9,0.026971096198564765
+SiLU,coordenadas do círculo,1320,17,0.4583241940316489
+SiLU,coordenadas do círculo,1340,1,0.0005245372735127222
+SiLU,coordenadas do círculo,1340,3,0.004480705097563995
+SiLU,coordenadas do círculo,1340,9,0.027852649316490945
+SiLU,coordenadas do círculo,1340,17,0.4483805102618657
+SiLU,coordenadas do círculo,1360,1,0.0004043411813412827
+SiLU,coordenadas do círculo,1360,3,0.0015626934965985617
+SiLU,coordenadas do círculo,1360,9,0.029742825796449986
+SiLU,coordenadas do círculo,1360,17,0.43830619942603694
+SiLU,coordenadas do círculo,1380,1,0.0005934568608837857
+SiLU,coordenadas do círculo,1380,3,0.0019870518840014477
+SiLU,coordenadas do círculo,1380,9,0.03149313503846092
+SiLU,coordenadas do círculo,1380,17,0.4280651462747506
+SiLU,coordenadas do círculo,1400,1,0.0006168813275793162
+SiLU,coordenadas do círculo,1400,3,0.006834451714506041
+SiLU,coordenadas do círculo,1400,9,0.03194750032455243
+SiLU,coordenadas do círculo,1400,17,0.4181116435988692
+SiLU,coordenadas do círculo,1420,1,0.0056226560173990164
+SiLU,coordenadas do círculo,1420,3,0.008068120659133213
+SiLU,coordenadas do círculo,1420,9,0.034563923452720746
+SiLU,coordenadas do círculo,1420,17,0.409494050683811
+SiLU,coordenadas do círculo,1440,1,0.00106802402806857
+SiLU,coordenadas do círculo,1440,3,0.00264743808100632
+SiLU,coordenadas do círculo,1440,9,0.03547392343778448
+SiLU,coordenadas do círculo,1440,17,0.4004533481364329
+SiLU,coordenadas do círculo,1460,1,6.161077208638509e-05
+SiLU,coordenadas do círculo,1460,3,0.0016913481468295894
+SiLU,coordenadas do círculo,1460,9,0.0367265607664718
+SiLU,coordenadas do círculo,1460,17,0.3917060519600352
+SiLU,coordenadas do círculo,1480,1,0.0006193578650780291
+SiLU,coordenadas do círculo,1480,3,0.00013671050849989558
+SiLU,coordenadas do círculo,1480,9,0.03804063282410256
+SiLU,coordenadas do círculo,1480,17,0.3829387712725038
+SiLU,coordenadas do círculo,1500,1,0.0005870124833052346
+SiLU,coordenadas do círculo,1500,3,0.00039006102280736595
+SiLU,coordenadas do círculo,1500,9,0.03929570025799568
+SiLU,coordenadas do círculo,1500,17,0.3741939030628614
+SiLU,coordenadas do círculo,1520,1,0.0005045006454054591
+SiLU,coordenadas do círculo,1520,3,0.00021202907868780852
+SiLU,coordenadas do círculo,1520,9,0.04067051884477038
+SiLU,coordenadas do círculo,1520,17,0.36547298009961776
+SiLU,coordenadas do círculo,1540,1,0.0010907471778072136
+SiLU,coordenadas do círculo,1540,3,0.013311277706964815
+SiLU,coordenadas do círculo,1540,9,0.04232122694717105
+SiLU,coordenadas do círculo,1540,17,0.3570302658163372
+SiLU,coordenadas do círculo,1560,1,0.006353825024335842
+SiLU,coordenadas do círculo,1560,3,0.010633238535050325
+SiLU,coordenadas do círculo,1560,9,0.04180375840360078
+SiLU,coordenadas do círculo,1560,17,0.34976334402880566
+SiLU,coordenadas do círculo,1580,1,0.0019917886339449126
+SiLU,coordenadas do círculo,1580,3,0.002639061673600906
+SiLU,coordenadas do círculo,1580,9,0.04332073564159059
+SiLU,coordenadas do círculo,1580,17,0.3428614225089042
+SiLU,coordenadas do círculo,1600,1,0.0012243297999538932
+SiLU,coordenadas do círculo,1600,3,0.0018871767582166298
+SiLU,coordenadas do círculo,1600,9,0.04377656474139417
+SiLU,coordenadas do círculo,1600,17,0.335719061229817
+SiLU,coordenadas do círculo,1620,1,0.0002201732943578197
+SiLU,coordenadas do círculo,1620,3,0.0005763537308420877
+SiLU,coordenadas do círculo,1620,9,0.04447206502872628
+SiLU,coordenadas do círculo,1620,17,0.32841240900882845
+SiLU,coordenadas do círculo,1640,1,0.0004082986338374272
+SiLU,coordenadas do círculo,1640,3,0.0004427469486605934
+SiLU,coordenadas do círculo,1640,9,0.0449078591133448
+SiLU,coordenadas do círculo,1640,17,0.3212085779160004
+SiLU,coordenadas do círculo,1660,1,0.00039905990699314433
+SiLU,coordenadas do círculo,1660,3,0.00044863148696400743
+SiLU,coordenadas do círculo,1660,9,0.04534954808301739
+SiLU,coordenadas do círculo,1660,17,0.3139824757882813
+SiLU,coordenadas do círculo,1680,1,0.00042989371276299715
+SiLU,coordenadas do círculo,1680,3,0.0006327744084136232
+SiLU,coordenadas do círculo,1680,9,0.04582547683156667
+SiLU,coordenadas do círculo,1680,17,0.3066421620977516
+SiLU,coordenadas do círculo,1700,1,0.0011336538372952324
+SiLU,coordenadas do círculo,1700,3,0.007195657098541064
+SiLU,coordenadas do círculo,1700,9,0.046641486272527906
+SiLU,coordenadas do círculo,1700,17,0.2991952408019095
+SiLU,coordenadas do círculo,1720,1,0.0014970386839886103
+SiLU,coordenadas do círculo,1720,3,0.0030867281526452757
+SiLU,coordenadas do círculo,1720,9,0.04575050630777231
+SiLU,coordenadas do círculo,1720,17,0.2922630877554857
+SiLU,coordenadas do círculo,1740,1,0.001555644633635131
+SiLU,coordenadas do círculo,1740,3,0.004997332879616091
+SiLU,coordenadas do círculo,1740,9,0.04708354012423283
+SiLU,coordenadas do círculo,1740,17,0.2847107689726819
+SiLU,coordenadas do círculo,1760,1,0.0004867503873102686
+SiLU,coordenadas do círculo,1760,3,0.0007881799212668556
+SiLU,coordenadas do círculo,1760,9,0.047296254624617784
+SiLU,coordenadas do círculo,1760,17,0.2778385971214238
+SiLU,coordenadas do círculo,1780,1,3.392947766121788e-05
+SiLU,coordenadas do círculo,1780,3,0.0002021041169614011
+SiLU,coordenadas do círculo,1780,9,0.047105440768647075
+SiLU,coordenadas do círculo,1780,17,0.2716659485728409
+SiLU,coordenadas do círculo,1800,1,0.00026684098714490614
+SiLU,coordenadas do círculo,1800,3,0.0005327198803848177
+SiLU,coordenadas do círculo,1800,9,0.046668719497372384
+SiLU,coordenadas do círculo,1800,17,0.26600638323890735
+SiLU,coordenadas do círculo,1820,1,0.00021891124034196296
+SiLU,coordenadas do círculo,1820,3,0.0005578191215727644
+SiLU,coordenadas do círculo,1820,9,0.04621883818914441
+SiLU,coordenadas do círculo,1820,17,0.26040214836592657
+SiLU,coordenadas do círculo,1840,1,0.00022239252192701712
+SiLU,coordenadas do círculo,1840,3,0.0006412326536916726
+SiLU,coordenadas do círculo,1840,9,0.04581211575462973
+SiLU,coordenadas do círculo,1840,17,0.2548867347795344
+SiLU,coordenadas do círculo,1860,1,0.00019364306477606032
+SiLU,coordenadas do círculo,1860,3,0.0006492703432254754
+SiLU,coordenadas do círculo,1860,9,0.04538768733908149
+SiLU,coordenadas do círculo,1860,17,0.2494826212792802
+SiLU,coordenadas do círculo,1880,1,7.706452487343246e-05
+SiLU,coordenadas do círculo,1880,3,0.00028729710658325746
+SiLU,coordenadas do círculo,1880,9,0.04493126121731109
+SiLU,coordenadas do círculo,1880,17,0.24415687078478954
+SiLU,coordenadas do círculo,1900,1,0.004862452953707008
+SiLU,coordenadas do círculo,1900,3,0.00017499774740516681
+SiLU,coordenadas do círculo,1900,9,0.0431459364554332
+SiLU,coordenadas do círculo,1900,17,0.23944702636139636
+SiLU,coordenadas do círculo,1920,1,0.005521202815989698
+SiLU,coordenadas do círculo,1920,3,0.0067550531826902
+SiLU,coordenadas do círculo,1920,9,0.04383614320716793
+SiLU,coordenadas do círculo,1920,17,0.23602934210161808
+SiLU,coordenadas do círculo,1940,1,0.001615794103950947
+SiLU,coordenadas do círculo,1940,3,0.0034123419192925845
+SiLU,coordenadas do círculo,1940,9,0.04345523341790413
+SiLU,coordenadas do círculo,1940,17,0.23190794061972642
+SiLU,coordenadas do círculo,1960,1,0.0003277068723296553
+SiLU,coordenadas do círculo,1960,3,0.001489568404958684
+SiLU,coordenadas do círculo,1960,9,0.04301495249078494
+SiLU,coordenadas do círculo,1960,17,0.22762388942984252
+SiLU,coordenadas do círculo,1980,1,0.00048689983114722803
+SiLU,coordenadas do círculo,1980,3,0.0010470835614152345
+SiLU,coordenadas do círculo,1980,9,0.042539721377189775
+SiLU,coordenadas do círculo,1980,17,0.22341921751204583
+SiLU,coordenadas do círculo,2000,1,7.734833265387762e-05
+SiLU,coordenadas do círculo,2000,3,0.00054454321781386
+SiLU,coordenadas do círculo,2000,9,0.04206832944884201
+SiLU,coordenadas do círculo,2000,17,0.21931743803070355
+SiLU,coordenadas do círculo,2020,1,0.0001897633571780401
+SiLU,coordenadas do círculo,2020,3,0.0006676356453423228
+SiLU,coordenadas do círculo,2020,9,0.041555484213296905
+SiLU,coordenadas do círculo,2020,17,0.21530628848301567
+SiLU,coordenadas do círculo,2040,1,0.00016249375699817624
+SiLU,coordenadas do círculo,2040,3,0.0006166112944802571
+SiLU,coordenadas do círculo,2040,9,0.041020490014900574
+SiLU,coordenadas do círculo,2040,17,0.2113551979298945
+SiLU,coordenadas do círculo,2060,1,0.00016020510213980965
+SiLU,coordenadas do círculo,2060,3,0.0006243200229890219
+SiLU,coordenadas do círculo,2060,9,0.04046273772197082
+SiLU,coordenadas do círculo,2060,17,0.20746999126920673
+SiLU,coordenadas do círculo,2080,1,0.00017827426702824128
+SiLU,coordenadas do círculo,2080,3,0.0006489096847580358
+SiLU,coordenadas do círculo,2080,9,0.039879394803969646
+SiLU,coordenadas do círculo,2080,17,0.2036462835790981
+SiLU,coordenadas do círculo,2100,1,0.003672217474385312
+SiLU,coordenadas do círculo,2100,3,0.007013496549954589
+SiLU,coordenadas do círculo,2100,9,0.039505022914530875
+SiLU,coordenadas do círculo,2100,17,0.20022044725070287
+SiLU,coordenadas do círculo,2120,1,0.0018346452212140056
+SiLU,coordenadas do círculo,2120,3,0.0017039502077931994
+SiLU,coordenadas do círculo,2120,9,0.038197533467016355
+SiLU,coordenadas do círculo,2120,17,0.19760489935198916
+SiLU,coordenadas do círculo,2140,1,0.002914946962521629
+SiLU,coordenadas do círculo,2140,3,0.004618031602126724
+SiLU,coordenadas do círculo,2140,9,0.037682106612882
+SiLU,coordenadas do círculo,2140,17,0.19440369252171597
+SiLU,coordenadas do círculo,2160,1,0.0008496855796055456
+SiLU,coordenadas do círculo,2160,3,0.0008218346176234536
+SiLU,coordenadas do círculo,2160,9,0.03720589575196237
+SiLU,coordenadas do círculo,2160,17,0.19163104981509857
+SiLU,coordenadas do círculo,2180,1,0.0001585986457387669
+SiLU,coordenadas do círculo,2180,3,1.7068946338276642e-05
+SiLU,coordenadas do círculo,2180,9,0.036772669319702675
+SiLU,coordenadas do círculo,2180,17,0.1885289286191398
+SiLU,coordenadas do círculo,2200,1,1.1808729098457314e-05
+SiLU,coordenadas do círculo,2200,3,0.00021658455903073216
+SiLU,coordenadas do círculo,2200,9,0.036189859788137255
+SiLU,coordenadas do círculo,2200,17,0.18547621981212528
+SiLU,Fourier explícito,0,1,0.9758925446892147
+SiLU,Fourier explícito,0,3,0.9664080412681751
+SiLU,Fourier explícito,0,9,0.98514621752212
+SiLU,Fourier explícito,0,17,0.9885037482723088
+SiLU,Fourier explícito,20,1,0.262570057059965
+SiLU,Fourier explícito,20,3,0.4778174310755963
+SiLU,Fourier explícito,20,9,0.32283443819263313
+SiLU,Fourier explícito,20,17,0.48285513728525975
+SiLU,Fourier explícito,40,1,0.014018122695759817
+SiLU,Fourier explícito,40,3,0.05365593380094613
+SiLU,Fourier explícito,40,9,0.04210675378740688
+SiLU,Fourier explícito,40,17,0.09009334737884857
+SiLU,Fourier explícito,60,1,0.004955371387782441
+SiLU,Fourier explícito,60,3,0.03067829242870899
+SiLU,Fourier explícito,60,9,0.009585483959038686
+SiLU,Fourier explícito,60,17,0.0020705547551159273
+SiLU,Fourier explícito,80,1,0.014176536098726801
+SiLU,Fourier explícito,80,3,0.03264236799117655
+SiLU,Fourier explícito,80,9,0.010560703677645552
+SiLU,Fourier explícito,80,17,0.0166794178888659
+SiLU,Fourier explícito,100,1,0.0037942486890555254
+SiLU,Fourier explícito,100,3,0.00872534894455098
+SiLU,Fourier explícito,100,9,0.0010092770236139555
+SiLU,Fourier explícito,100,17,0.005577120164638345
+SiLU,Fourier explícito,120,1,0.0032986796764919073
+SiLU,Fourier explícito,120,3,6.460878148677039e-05
+SiLU,Fourier explícito,120,9,0.0015155291345716043
+SiLU,Fourier explícito,120,17,0.00025762563841085645
+SiLU,Fourier explícito,140,1,0.000997508222005235
+SiLU,Fourier explícito,140,3,0.0007983530790414726
+SiLU,Fourier explícito,140,9,0.0013545721935116532
+SiLU,Fourier explícito,140,17,2.536456547812614e-05
+SiLU,Fourier explícito,160,1,6.539623708569906e-05
+SiLU,Fourier explícito,160,3,0.0006524959677892804
+SiLU,Fourier explícito,160,9,0.0006319969902189048
+SiLU,Fourier explícito,160,17,0.00033250173095530184
+SiLU,Fourier explícito,180,1,2.4487153280227464e-05
+SiLU,Fourier explícito,180,3,0.00014131313846187695
+SiLU,Fourier explícito,180,9,0.0003647211269950083
+SiLU,Fourier explícito,180,17,9.50278466924994e-05
+SiLU,Fourier explícito,200,1,7.86867462602779e-05
+SiLU,Fourier explícito,200,3,0.00014160816383926362
+SiLU,Fourier explícito,200,9,0.00020188096365847302
+SiLU,Fourier explícito,200,17,8.502293662138093e-05
+SiLU,Fourier explícito,220,1,3.10266968110502e-05
+SiLU,Fourier explícito,220,3,9.95869996513476e-05
+SiLU,Fourier explícito,220,9,0.00017376623680917435
+SiLU,Fourier explícito,220,17,4.566445182973627e-05
+SiLU,Fourier explícito,240,1,1.82735731088122e-05
+SiLU,Fourier explícito,240,3,9.220269214405376e-05
+SiLU,Fourier explícito,240,9,0.00014440998247547963
+SiLU,Fourier explícito,240,17,1.719465730273776e-05
+SiLU,Fourier explícito,260,1,6.818484225039076e-06
+SiLU,Fourier explícito,260,3,7.730350818352841e-05
+SiLU,Fourier explícito,260,9,0.00011304075418849784
+SiLU,Fourier explícito,260,17,2.726585711424037e-06
+SiLU,Fourier explícito,280,1,2.7506257674534967e-06
+SiLU,Fourier explícito,280,3,6.500043456802375e-05
+SiLU,Fourier explícito,280,9,9.165475840478692e-05
+SiLU,Fourier explícito,280,17,1.404173300234158e-05
+SiLU,Fourier explícito,300,1,6.106867806212485e-07
+SiLU,Fourier explícito,300,3,5.51655450162185e-05
+SiLU,Fourier explícito,300,9,7.451719248872562e-05
+SiLU,Fourier explícito,300,17,2.2782816023351694e-05
+SiLU,Fourier explícito,320,1,6.821133991623646e-07
+SiLU,Fourier explícito,320,3,4.758088357207524e-05
+SiLU,Fourier explícito,320,9,6.206525089234039e-05
+SiLU,Fourier explícito,320,17,2.7971835926319362e-05
+SiLU,Fourier explícito,340,1,1.3151847303061795e-06
+SiLU,Fourier explícito,340,3,4.1932673197790486e-05
+SiLU,Fourier explícito,340,9,5.275818480189399e-05
+SiLU,Fourier explícito,340,17,3.0733498416703775e-05
+SiLU,Fourier explícito,360,1,1.5134641016975267e-06
+SiLU,Fourier explícito,360,3,3.757207264667876e-05
+SiLU,Fourier explícito,360,9,4.561992488014987e-05
+SiLU,Fourier explícito,360,17,3.191788319553288e-05
+SiLU,Fourier explícito,380,1,1.5443712037239256e-06
+SiLU,Fourier explícito,380,3,3.422875297085531e-05
+SiLU,Fourier explícito,380,9,4.017108126886702e-05
+SiLU,Fourier explícito,380,17,3.1920258390420286e-05
+SiLU,Fourier explícito,400,1,1.3847979073375098e-06
+SiLU,Fourier explícito,400,3,3.1575044969389054e-05
+SiLU,Fourier explícito,400,9,3.584756671706629e-05
+SiLU,Fourier explícito,400,17,3.11853795645086e-05
+SiLU,Fourier explícito,420,1,1.212803510297157e-06
+SiLU,Fourier explícito,420,3,2.9447330363207495e-05
+SiLU,Fourier explícito,420,9,3.2355005288969394e-05
+SiLU,Fourier explícito,420,17,3.0084409243504077e-05
+SiLU,Fourier explícito,440,1,1.0120507178254961e-06
+SiLU,Fourier explícito,440,3,2.7662961565237306e-05
+SiLU,Fourier explícito,440,9,2.939172009767198e-05
+SiLU,Fourier explícito,440,17,2.8700247780991678e-05
+SiLU,Fourier explícito,460,1,8.718290819996538e-07
+SiLU,Fourier explícito,460,3,2.6186229444409323e-05
+SiLU,Fourier explícito,460,9,2.6970355024891044e-05
+SiLU,Fourier explícito,460,17,2.7272098291565187e-05
+SiLU,Fourier explícito,480,1,6.10688381970731e-07
+SiLU,Fourier explícito,480,3,2.4819094236406345e-05
+SiLU,Fourier explícito,480,9,2.4795990109661863e-05
+SiLU,Fourier explícito,480,17,2.574935304756334e-05
+SiLU,Fourier explícito,500,1,5.186759917772483e-07
+SiLU,Fourier explícito,500,3,2.3695567398574057e-05
+SiLU,Fourier explícito,500,9,2.2897836938350473e-05
+SiLU,Fourier explícito,500,17,2.4318346628454645e-05
+SiLU,Fourier explícito,520,1,3.9851072746568043e-07
+SiLU,Fourier explícito,520,3,2.265269373534499e-05
+SiLU,Fourier explícito,520,9,2.119717716383916e-05
+SiLU,Fourier explícito,520,17,2.2915151929611687e-05
+SiLU,Fourier explícito,540,1,2.749689157236408e-07
+SiLU,Fourier explícito,540,3,2.1727724895926597e-05
+SiLU,Fourier explícito,540,9,1.9632197096170735e-05
+SiLU,Fourier explícito,540,17,2.162585450424325e-05
+SiLU,Fourier explícito,560,1,1.8944505048204125e-07
+SiLU,Fourier explícito,560,3,2.0846190976061984e-05
+SiLU,Fourier explícito,560,9,1.8205682425462896e-05
+SiLU,Fourier explícito,560,17,2.0384265176606608e-05
+SiLU,Fourier explícito,580,1,1.129892617809284e-07
+SiLU,Fourier explícito,580,3,2.006640594108527e-05
+SiLU,Fourier explícito,580,9,1.6909177051734073e-05
+SiLU,Fourier explícito,580,17,1.9218356104621422e-05
+SiLU,Fourier explícito,600,1,1.5002201653427712e-07
+SiLU,Fourier explícito,600,3,1.9338795606158266e-05
+SiLU,Fourier explícito,600,9,1.5709306432381878e-05
+SiLU,Fourier explícito,600,17,1.812504807976189e-05
+SiLU,Fourier explícito,620,1,1.4039888248954728e-07
+SiLU,Fourier explícito,620,3,1.86847695272178e-05
+SiLU,Fourier explícito,620,9,1.4660641880039489e-05
+SiLU,Fourier explícito,620,17,1.714019504300934e-05
+SiLU,Fourier explícito,640,1,9.881717664478928e-08
+SiLU,Fourier explícito,640,3,1.7967003969372177e-05
+SiLU,Fourier explícito,640,9,1.3626950636600527e-05
+SiLU,Fourier explícito,640,17,1.6211150486397643e-05
+SiLU,Fourier explícito,660,1,1.5831896549267836e-07
+SiLU,Fourier explícito,660,3,1.738111732515675e-05
+SiLU,Fourier explícito,660,9,1.2699971954655169e-05
+SiLU,Fourier explícito,660,17,1.5386060482334898e-05
+SiLU,Fourier explícito,680,1,9.537399113374021e-08
+SiLU,Fourier explícito,680,3,1.6845535239686904e-05
+SiLU,Fourier explícito,680,9,1.1865359642255117e-05
+SiLU,Fourier explícito,680,17,1.4558786786990561e-05
+SiLU,Fourier explícito,700,1,1.3793428011231904e-07
+SiLU,Fourier explícito,700,3,1.6316520415237357e-05
+SiLU,Fourier explícito,700,9,1.1092968084949337e-05
+SiLU,Fourier explícito,700,17,1.3798228840279431e-05
+SiLU,Fourier explícito,720,1,1.48486327534658e-07
+SiLU,Fourier explícito,720,3,1.5792339719267034e-05
+SiLU,Fourier explícito,720,9,1.0327758854415108e-05
+SiLU,Fourier explícito,720,17,1.312111802869864e-05
+SiLU,Fourier explícito,740,1,1.3898997297587392e-07
+SiLU,Fourier explícito,740,3,1.5393477829925502e-05
+SiLU,Fourier explícito,740,9,9.678470409266168e-06
+SiLU,Fourier explícito,740,17,1.2477320478139815e-05
+SiLU,Fourier explícito,760,1,1.812399352990153e-07
+SiLU,Fourier explícito,760,3,1.4935885370113478e-05
+SiLU,Fourier explícito,760,9,9.07424363620184e-06
+SiLU,Fourier explícito,760,17,1.1892664774462326e-05
+SiLU,Fourier explícito,780,1,1.8757458308873812e-07
+SiLU,Fourier explícito,780,3,1.4499579458048142e-05
+SiLU,Fourier explícito,780,9,8.511696232210485e-06
+SiLU,Fourier explícito,780,17,1.1314196064865822e-05
+SiLU,Fourier explícito,800,1,1.7479599893624997e-07
+SiLU,Fourier explícito,800,3,1.4059675722001747e-05
+SiLU,Fourier explícito,800,9,7.98060992118612e-06
+SiLU,Fourier explícito,800,17,1.079281095340243e-05
+SiLU,Fourier explícito,820,1,1.9075809102691146e-07
+SiLU,Fourier explícito,820,3,1.362617386817473e-05
+SiLU,Fourier explícito,820,9,7.5045404757202764e-06
+SiLU,Fourier explícito,820,17,1.027623775220067e-05
+SiLU,Fourier explícito,840,1,2.5459908418584065e-07
+SiLU,Fourier explícito,840,3,1.3297419947806211e-05
+SiLU,Fourier explícito,840,9,7.084768843089679e-06
+SiLU,Fourier explícito,840,17,9.847691881657695e-06
+SiLU,Fourier explícito,860,1,2.80561977739939e-07
+SiLU,Fourier explícito,860,3,1.2859064200379532e-05
+SiLU,Fourier explícito,860,9,6.637423992837823e-06
+SiLU,Fourier explícito,860,17,9.40240055707924e-06
+SiLU,Fourier explícito,880,1,2.573413032937833e-07
+SiLU,Fourier explícito,880,3,1.2484311148856108e-05
+SiLU,Fourier explícito,880,9,6.248965027684799e-06
+SiLU,Fourier explícito,880,17,9.046955556343212e-06
+SiLU,Fourier explícito,900,1,2.574444748988988e-07
+SiLU,Fourier explícito,900,3,1.2153222074470045e-05
+SiLU,Fourier explícito,900,9,5.898848666559901e-06
+SiLU,Fourier explícito,900,17,8.676939973770623e-06
+SiLU,Fourier explícito,920,1,2.7761098311646753e-07
+SiLU,Fourier explícito,920,3,1.1851196026883738e-05
+SiLU,Fourier explícito,920,9,5.6053789467566226e-06
+SiLU,Fourier explícito,920,17,8.360750268006703e-06
+SiLU,Fourier explícito,940,1,2.6859650603198363e-07
+SiLU,Fourier explícito,940,3,1.1496157985358173e-05
+SiLU,Fourier explícito,940,9,5.304833698198407e-06
+SiLU,Fourier explícito,940,17,8.015777996275613e-06
+SiLU,Fourier explícito,960,1,2.0851200490891513e-07
+SiLU,Fourier explícito,960,3,1.1169069977979348e-05
+SiLU,Fourier explícito,960,9,4.9753785926802175e-06
+SiLU,Fourier explícito,960,17,7.687272151745636e-06
+SiLU,Fourier explícito,980,1,2.388462072158163e-07
+SiLU,Fourier explícito,980,3,1.0878010634699125e-05
+SiLU,Fourier explícito,980,9,4.7477333638350655e-06
+SiLU,Fourier explícito,980,17,7.4437109647437965e-06
+SiLU,Fourier explícito,1000,1,2.5675015731755155e-07
+SiLU,Fourier explícito,1000,3,1.0585460217169916e-05
+SiLU,Fourier explícito,1000,9,4.530513426995691e-06
+SiLU,Fourier explícito,1000,17,7.205750869776287e-06
+SiLU,Fourier explícito,1020,1,2.816253156136518e-07
+SiLU,Fourier explícito,1020,3,1.0258239036456076e-05
+SiLU,Fourier explícito,1020,9,4.339427215538839e-06
+SiLU,Fourier explícito,1020,17,6.993067470156846e-06
+SiLU,Fourier explícito,1040,1,2.2994742948180254e-07
+SiLU,Fourier explícito,1040,3,9.926363097926952e-06
+SiLU,Fourier explícito,1040,9,4.088441241215742e-06
+SiLU,Fourier explícito,1040,17,6.7021506765461865e-06
+SiLU,Fourier explícito,1060,1,2.663947489125142e-07
+SiLU,Fourier explícito,1060,3,9.651356197712513e-06
+SiLU,Fourier explícito,1060,9,3.988197824502809e-06
+SiLU,Fourier explícito,1060,17,6.529197339955346e-06
+SiLU,Fourier explícito,1080,1,2.3585814407274495e-07
+SiLU,Fourier explícito,1080,3,9.332229551234647e-06
+SiLU,Fourier explícito,1080,9,3.7452521356592534e-06
+SiLU,Fourier explícito,1080,17,6.2807939730837785e-06
+SiLU,Fourier explícito,1100,1,3.0438210898645833e-07
+SiLU,Fourier explícito,1100,3,9.080147206431082e-06
+SiLU,Fourier explícito,1100,9,3.634363072024328e-06
+SiLU,Fourier explícito,1100,17,6.15826130760168e-06
+SiLU,Fourier explícito,1120,1,2.8777433971358154e-07
+SiLU,Fourier explícito,1120,3,8.827403187706734e-06
+SiLU,Fourier explícito,1120,9,3.4100131378200563e-06
+SiLU,Fourier explícito,1120,17,5.997897621297252e-06
+SiLU,Fourier explícito,1140,1,3.0314309896788746e-07
+SiLU,Fourier explícito,1140,3,8.545500631849456e-06
+SiLU,Fourier explícito,1140,9,3.3130854627111368e-06
+SiLU,Fourier explícito,1140,17,5.835546322107173e-06
+SiLU,Fourier explícito,1160,1,2.751398879808568e-07
+SiLU,Fourier explícito,1160,3,8.335666049783771e-06
+SiLU,Fourier explícito,1160,9,3.1980744076658614e-06
+SiLU,Fourier explícito,1160,17,5.684345810615197e-06
+SiLU,Fourier explícito,1180,1,2.515858497064447e-07
+SiLU,Fourier explícito,1180,3,8.072696994887058e-06
+SiLU,Fourier explícito,1180,9,3.104323337606779e-06
+SiLU,Fourier explícito,1180,17,5.564157216606891e-06
+SiLU,Fourier explícito,1200,1,2.1196086465144363e-07
+SiLU,Fourier explícito,1200,3,7.78189157981737e-06
+SiLU,Fourier explícito,1200,9,2.9810774764555993e-06
+SiLU,Fourier explícito,1200,17,5.388474789182725e-06
+SiLU,Fourier explícito,1220,1,2.2541773083822504e-07
+SiLU,Fourier explícito,1220,3,7.598404419218893e-06
+SiLU,Fourier explícito,1220,9,2.90086781325555e-06
+SiLU,Fourier explícito,1220,17,5.306439734697035e-06
+SiLU,Fourier explícito,1240,1,2.137141246016834e-07
+SiLU,Fourier explícito,1240,3,7.325935875155162e-06
+SiLU,Fourier explícito,1240,9,2.7599602044259097e-06
+SiLU,Fourier explícito,1240,17,5.116071775960302e-06
+SiLU,Fourier explícito,1260,1,2.3686892235359272e-07
+SiLU,Fourier explícito,1260,3,7.121102628462207e-06
+SiLU,Fourier explícito,1260,9,2.716354030189916e-06
+SiLU,Fourier explícito,1260,17,5.049542183695402e-06
+SiLU,Fourier explícito,1280,1,2.516524873913008e-07
+SiLU,Fourier explícito,1280,3,6.909735834140866e-06
+SiLU,Fourier explícito,1280,9,2.6597342619218706e-06
+SiLU,Fourier explícito,1280,17,4.975922161666939e-06
+SiLU,Fourier explícito,1300,1,2.6391796532857745e-07
+SiLU,Fourier explícito,1300,3,6.722561746375195e-06
+SiLU,Fourier explícito,1300,9,2.5358082419381704e-06
+SiLU,Fourier explícito,1300,17,4.901802002021053e-06
+SiLU,Fourier explícito,1320,1,2.217366216854542e-07
+SiLU,Fourier explícito,1320,3,6.450380887489131e-06
+SiLU,Fourier explícito,1320,9,2.4280510209658474e-06
+SiLU,Fourier explícito,1320,17,4.775627123523117e-06
+SiLU,Fourier explícito,1340,1,2.539607840772439e-07
+SiLU,Fourier explícito,1340,3,6.294066024364998e-06
+SiLU,Fourier explícito,1340,9,2.4131593064010655e-06
+SiLU,Fourier explícito,1340,17,4.707234227653402e-06
+SiLU,Fourier explícito,1360,1,2.835738535752962e-07
+SiLU,Fourier explícito,1360,3,6.065093215814854e-06
+SiLU,Fourier explícito,1360,9,2.353441176359815e-06
+SiLU,Fourier explícito,1360,17,4.614667365020149e-06
+SiLU,Fourier explícito,1380,1,2.0719618325491655e-07
+SiLU,Fourier explícito,1380,3,5.8625044741283815e-06
+SiLU,Fourier explícito,1380,9,2.222135947257069e-06
+SiLU,Fourier explícito,1380,17,4.491430708458492e-06
+SiLU,Fourier explícito,1400,1,2.3698791883597845e-07
+SiLU,Fourier explícito,1400,3,5.636146803284062e-06
+SiLU,Fourier explícito,1400,9,2.2091573172587898e-06
+SiLU,Fourier explícito,1400,17,4.46374906994609e-06
+SiLU,Fourier explícito,1420,1,2.745645393207836e-07
+SiLU,Fourier explícito,1420,3,5.507313665664661e-06
+SiLU,Fourier explícito,1420,9,2.1354490005185805e-06
+SiLU,Fourier explícito,1420,17,4.395700018070038e-06
+SiLU,Fourier explícito,1440,1,2.1198775179765834e-07
+SiLU,Fourier explícito,1440,3,5.301879848385315e-06
+SiLU,Fourier explícito,1440,9,2.0770359807559026e-06
+SiLU,Fourier explícito,1440,17,4.3389844555727725e-06
+SiLU,Fourier explícito,1460,1,2.52017142270662e-07
+SiLU,Fourier explícito,1460,3,5.176108209010199e-06
+SiLU,Fourier explícito,1460,9,2.0179373043969853e-06
+SiLU,Fourier explícito,1460,17,4.237129195922708e-06
+SiLU,Fourier explícito,1480,1,2.6100129961698046e-07
+SiLU,Fourier explícito,1480,3,5.0105752294507975e-06
+SiLU,Fourier explícito,1480,9,1.974640016689993e-06
+SiLU,Fourier explícito,1480,17,4.216290349913813e-06
+SiLU,Fourier explícito,1500,1,3.097398305682651e-07
+SiLU,Fourier explícito,1500,3,4.821245391216548e-06
+SiLU,Fourier explícito,1500,9,1.9549012874831377e-06
+SiLU,Fourier explícito,1500,17,4.1449762134923905e-06
+SiLU,Fourier explícito,1520,1,2.638517308848637e-07
+SiLU,Fourier explícito,1520,3,4.687809374723996e-06
+SiLU,Fourier explícito,1520,9,1.917838670714922e-06
+SiLU,Fourier explícito,1520,17,4.090662523125457e-06
+SiLU,Fourier explícito,1540,1,2.9914851639589964e-07
+SiLU,Fourier explícito,1540,3,4.5491414211618405e-06
+SiLU,Fourier explícito,1540,9,1.8766852187357005e-06
+SiLU,Fourier explícito,1540,17,4.055220375656142e-06
+SiLU,Fourier explícito,1560,1,2.7965724532341763e-07
+SiLU,Fourier explícito,1560,3,4.3692538411099444e-06
+SiLU,Fourier explícito,1560,9,1.7790153243219248e-06
+SiLU,Fourier explícito,1560,17,3.973351939273413e-06
+SiLU,Fourier explícito,1580,1,3.2003889307961957e-07
+SiLU,Fourier explícito,1580,3,4.2260354480210815e-06
+SiLU,Fourier explícito,1580,9,1.7848972306622309e-06
+SiLU,Fourier explícito,1580,17,3.9325115978481515e-06
+SiLU,Fourier explícito,1600,1,2.958487223580706e-07
+SiLU,Fourier explícito,1600,3,4.084450223082795e-06
+SiLU,Fourier explícito,1600,9,1.7726467568861315e-06
+SiLU,Fourier explícito,1600,17,3.850829274278584e-06
+SiLU,Fourier explícito,1620,1,3.2194142352845963e-07
+SiLU,Fourier explícito,1620,3,3.9123187594983135e-06
+SiLU,Fourier explícito,1620,9,1.6826844578466057e-06
+SiLU,Fourier explícito,1620,17,3.82516562722654e-06
+SiLU,Fourier explícito,1640,1,3.1233908085167887e-07
+SiLU,Fourier explícito,1640,3,3.811133757551295e-06
+SiLU,Fourier explícito,1640,9,1.6582289979087204e-06
+SiLU,Fourier explícito,1640,17,3.7564559923701153e-06
+SiLU,Fourier explícito,1660,1,3.083780560084862e-07
+SiLU,Fourier explícito,1660,3,3.682570096701233e-06
+SiLU,Fourier explícito,1660,9,1.6267449945445833e-06
+SiLU,Fourier explícito,1660,17,3.7299632970089964e-06
+SiLU,Fourier explícito,1680,1,3.5964847627776e-07
+SiLU,Fourier explícito,1680,3,3.561494451615531e-06
+SiLU,Fourier explícito,1680,9,1.5516094188702838e-06
+SiLU,Fourier explícito,1680,17,3.719469645764016e-06
+SiLU,Fourier explícito,1700,1,3.635984242531969e-07
+SiLU,Fourier explícito,1700,3,3.435545413608781e-06
+SiLU,Fourier explícito,1700,9,1.5549507738220652e-06
+SiLU,Fourier explícito,1700,17,3.66946526514382e-06
+SiLU,Fourier explícito,1720,1,3.6062175576036144e-07
+SiLU,Fourier explícito,1720,3,3.348619594152728e-06
+SiLU,Fourier explícito,1720,9,1.539948793632883e-06
+SiLU,Fourier explícito,1720,17,3.6128370916049936e-06
+SiLU,Fourier explícito,1740,1,3.526349725657183e-07
+SiLU,Fourier explícito,1740,3,3.222222908018416e-06
+SiLU,Fourier explícito,1740,9,1.4786088118321584e-06
+SiLU,Fourier explícito,1740,17,3.5281485299879817e-06
+SiLU,Fourier explícito,1760,1,3.862191256147398e-07
+SiLU,Fourier explícito,1760,3,3.1593906522857145e-06
+SiLU,Fourier explícito,1760,9,1.5132411430522037e-06
+SiLU,Fourier explícito,1760,17,3.5475200179214613e-06
+SiLU,Fourier explícito,1780,1,3.7300621650509174e-07
+SiLU,Fourier explícito,1780,3,3.042333378192939e-06
+SiLU,Fourier explícito,1780,9,1.4491840334949142e-06
+SiLU,Fourier explícito,1780,17,3.478097898237901e-06
+SiLU,Fourier explícito,1800,1,3.837948719078809e-07
+SiLU,Fourier explícito,1800,3,2.947209927781521e-06
+SiLU,Fourier explícito,1800,9,1.3766113088480888e-06
+SiLU,Fourier explícito,1800,17,3.424834834660696e-06
+SiLU,Fourier explícito,1820,1,4.125245212527417e-07
+SiLU,Fourier explícito,1820,3,2.851855036730475e-06
+SiLU,Fourier explícito,1820,9,1.3555673073771235e-06
+SiLU,Fourier explícito,1820,17,3.4187823842811296e-06
+SiLU,Fourier explícito,1840,1,3.966584792058631e-07
+SiLU,Fourier explícito,1840,3,2.780385788921854e-06
+SiLU,Fourier explícito,1840,9,1.3081393098994024e-06
+SiLU,Fourier explícito,1840,17,3.3737798957137678e-06
+SiLU,Fourier explícito,1860,1,3.9080758949095176e-07
+SiLU,Fourier explícito,1860,3,2.671811437356026e-06
+SiLU,Fourier explícito,1860,9,1.3212496854777663e-06
+SiLU,Fourier explícito,1860,17,3.325708177001348e-06
+SiLU,Fourier explícito,1880,1,4.2264389356535094e-07
+SiLU,Fourier explícito,1880,3,2.5734005000521725e-06
+SiLU,Fourier explícito,1880,9,1.2455281706725515e-06
+SiLU,Fourier explícito,1880,17,3.269347067112075e-06
+SiLU,Fourier explícito,1900,1,4.3650733911240563e-07
+SiLU,Fourier explícito,1900,3,2.493031151477649e-06
+SiLU,Fourier explícito,1900,9,1.2769239370736325e-06
+SiLU,Fourier explícito,1900,17,3.236579267065473e-06
+SiLU,Fourier explícito,1920,1,4.476926062716449e-07
+SiLU,Fourier explícito,1920,3,2.414849370950682e-06
+SiLU,Fourier explícito,1920,9,1.2404439959873372e-06
+SiLU,Fourier explícito,1920,17,3.2284653907090323e-06
+SiLU,Fourier explícito,1940,1,5.084992601509867e-07
+SiLU,Fourier explícito,1940,3,2.3193720125223037e-06
+SiLU,Fourier explícito,1940,9,1.212693075211265e-06
+SiLU,Fourier explícito,1940,17,3.1987382206105326e-06
+SiLU,Fourier explícito,1960,1,4.5604135025373997e-07
+SiLU,Fourier explícito,1960,3,2.2436187454973796e-06
+SiLU,Fourier explícito,1960,9,1.172828112627075e-06
+SiLU,Fourier explícito,1960,17,3.139519792305047e-06
+SiLU,Fourier explícito,1980,1,5.239862232283784e-07
+SiLU,Fourier explícito,1980,3,2.160319682184479e-06
+SiLU,Fourier explícito,1980,9,1.168626200656677e-06
+SiLU,Fourier explícito,1980,17,3.0848476346060117e-06
+SiLU,Fourier explícito,2000,1,4.965219663899674e-07
+SiLU,Fourier explícito,2000,3,2.0799799425217523e-06
+SiLU,Fourier explícito,2000,9,1.134526474066069e-06
+SiLU,Fourier explícito,2000,17,3.085033069733726e-06
+SiLU,Fourier explícito,2020,1,5.224566066627957e-07
+SiLU,Fourier explícito,2020,3,2.01213296377682e-06
+SiLU,Fourier explícito,2020,9,1.0800879918268424e-06
+SiLU,Fourier explícito,2020,17,3.029069655640306e-06
+SiLU,Fourier explícito,2040,1,5.135212949289702e-07
+SiLU,Fourier explícito,2040,3,1.9849735000971497e-06
+SiLU,Fourier explícito,2040,9,1.0698300557469926e-06
+SiLU,Fourier explícito,2040,17,2.973107195990176e-06
+SiLU,Fourier explícito,2060,1,5.133184170459817e-07
+SiLU,Fourier explícito,2060,3,1.8899372356666992e-06
+SiLU,Fourier explícito,2060,9,1.0658181915095022e-06
+SiLU,Fourier explícito,2060,17,2.9681881777295245e-06
+SiLU,Fourier explícito,2080,1,5.445119920417274e-07
+SiLU,Fourier explícito,2080,3,1.8497217276790358e-06
+SiLU,Fourier explícito,2080,9,1.0463039857046382e-06
+SiLU,Fourier explícito,2080,17,2.9572997823001206e-06
+SiLU,Fourier explícito,2100,1,5.77477349714734e-07
+SiLU,Fourier explícito,2100,3,1.7733265518091842e-06
+SiLU,Fourier explícito,2100,9,1.0351045431462594e-06
+SiLU,Fourier explícito,2100,17,2.920683339986399e-06
+SiLU,Fourier explícito,2120,1,5.648675374540393e-07
+SiLU,Fourier explícito,2120,3,1.7247723076003962e-06
+SiLU,Fourier explícito,2120,9,9.82720272687857e-07
+SiLU,Fourier explícito,2120,17,2.8345727891837894e-06
+SiLU,Fourier explícito,2140,1,5.815534307437014e-07
+SiLU,Fourier explícito,2140,3,1.6517817326358882e-06
+SiLU,Fourier explícito,2140,9,9.439256812321856e-07
+SiLU,Fourier explícito,2140,17,2.8298043084731115e-06
+SiLU,Fourier explícito,2160,1,6.062460742437442e-07
+SiLU,Fourier explícito,2160,3,1.5846690496749158e-06
+SiLU,Fourier explícito,2160,9,9.286112554219052e-07
+SiLU,Fourier explícito,2160,17,2.7949696105461685e-06
+SiLU,Fourier explícito,2180,1,5.972014526955544e-07
+SiLU,Fourier explícito,2180,3,1.582926328409535e-06
+SiLU,Fourier explícito,2180,9,9.133304865220752e-07
+SiLU,Fourier explícito,2180,17,2.7576979774569637e-06
+SiLU,Fourier explícito,2200,1,6.068851027886078e-07
+SiLU,Fourier explícito,2200,3,1.4517764792587084e-06
+SiLU,Fourier explícito,2200,9,8.704433821592094e-07
+SiLU,Fourier explícito,2200,17,2.7218671703224166e-06
