@@ -54,4 +54,4 @@ Sem UMAP, `requirements-base.txt` permite executar as partes já validadas; o no
 
 [Como publicar](PUBLICAR.md) · [Origem e referências](REFERENCIAS.md) · [Validação](VALIDACAO.md) · [Licença](LICENSE)
 
-Material original de **Edward Hirst e Tomás S. R. Silva**, MM845/IMECC/Unicamp. Resoluções e código adicional preparados com assistência de IA para estudo e revisão de Nina da Hora. As saídas foram obtidas no ambiente desta entrega, não no computador ou na conta GitHub pessoal dela. `material_original/` conserva o material recebido e seus créditos.
+Material original de **Edward Hirst e Tomás S. R. Silva**, MM845/IMECC/Unicamp. Resoluções e código adicional preparados com assistência de IA como solicita a disciplina para estudo e revisão de Nina da Hora.`material_original/` conserva o material recebido e seus créditos.
